@@ -1,0 +1,1542 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Thesaurus remediorum a treasury of choice medicines internall and externall, exactly composed according to art, peculiarly and properly fitted and appointed against the infirmities of the principall parts of mans body ... / by Julius Degravere ; whereunto is added diagnostic signs to know the temperament and constitution of each body ...</title>
+            <author>Degravere, Julius.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 88 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37451</idno>
+            <idno type="STC">Wing D857</idno>
+            <idno type="STC">ESTC R29706</idno>
+            <idno type="EEBO-CITATION">11195885</idno>
+            <idno type="OCLC">ocm 11195885</idno>
+            <idno type="VID">46673</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37451)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46673)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1439:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Thesaurus remediorum a treasury of choice medicines internall and externall, exactly composed according to art, peculiarly and properly fitted and appointed against the infirmities of the principall parts of mans body ... / by Julius Degravere ; whereunto is added diagnostic signs to know the temperament and constitution of each body ...</title>
+                  <author>Degravere, Julius.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second impression revised, corrected and enlarged.</edition>
+               </editionStmt>
+               <extent>[2], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained and tightly bound, with loss of print.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Dispensatories.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46673:1"/>
+            <pb facs="tcp:46673:1" rendition="simple:additions"/>
+            <p>
+               <hi>Theſaurus Remediorum.</hi>
+            </p>
+            <p>A Treaſury of choice MEDICINES Internall and Externall.</p>
+            <p>Exactly compoſed according to Art, peculiarly and pro<g ref="char:EOLhyphen"/>perly fitted and appointed againſt the infirmities of the principall parts of Mans body.</p>
+            <p>Their Vertues faithfully diſcovered, with plain and eaſie directions to uſe them.</p>
+            <p>Juſtly proportioned and doſed, for all perſons according to Strength, Sex, and Age.</p>
+            <p>Neat and ſecurely ſealed up in ſmall quantities and par<g ref="char:EOLhyphen"/>cels commodious for Uſe, Carriage and keeping, in long Jour<g ref="char:EOLhyphen"/>neys and Voyages, ready for emergent occaſions.</p>
+            <p>Prized very low, at ſet rates (for the publick good) that inferior people may procure the benefit: None of them exceeding Two Shillings price.</p>
+            <p>Very efficacious by often Experiments verified, againſt the Diſeaſes and Symptomes mentioned in the Catalogue of the ſixth page.</p>
+            <p>
+               <hi>By</hi> JULIUS DEGRAVERE, <hi>a learned Phyſitian.</hi>
+            </p>
+            <p>
+               <hi>Whereunto is added,</hi> Diagnoſtic ſigns to know the Temperament and Conſtitution of each Body; With a Phyſicall Dyet and ſelect Counſels for each Complexion.</p>
+            <p>
+               <hi>Alſo,</hi> Indicating Signs, advice and cautions for purging, vomiting, ſweating, and bleeding; with their proper effects and benefits, Aphoriſtically and methodically digeſted.</p>
+            <p>
+               <hi>The Second Impreſſion, Reviſed, Corrected, and Enlarged,</hi> The Medicines diligently viewed, ſealed up, and duly ordered by the conſtant care and appointment of <hi>E. M. Doctor in Phyſick.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> printed by <hi>G. P.</hi> 1662.</p>
+         </div>
+         <div xml:lang="lat" type="to_the_reader">
+            <pb facs="tcp:46673:2"/>
+            <pb n="1" facs="tcp:46673:2"/>
+            <head>Literato Lectori.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Edicamenta in parvulo hoc opere ſub nomine <hi>Julii Degraveri</hi> jam ſecundò e<g ref="char:EOLhyphen"/>dita, omnibus his infra in calee libri enumeratis morbis, ad quorum mede<g ref="char:EOLhyphen"/>lam peritè accomodantur, propria ex<g ref="char:EOLhyphen"/>perientia in praxi medica ſaepe numero probata, per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tilia inveni. Nemo aegre ferat, nec cui ſit mirum, ſi pauperum gratia, publicè illa exiguis praetiis ſine do<g ref="char:EOLhyphen"/>lo venalia fore quidam curaverint; quippe quòd a<g ref="char:EOLhyphen"/>gyrtae &amp; impoſtores quam plurimi, quique experimen<g ref="char:EOLhyphen"/>ta per mortes agunt, ſua pharmaca fraudulenta in vul<g ref="char:EOLhyphen"/>gus perniciosè ſpargunt. Haec in conſpectu meo fi<g ref="char:EOLhyphen"/>deliter diſpenſata, benè praeparata &amp; ſecundum artem diligenter compoſita, meritò laúdanda, &amp; in praetio habenda dico: porrò ne quis temerè in uſum cujuſvis horum quamvis ſaluberimi inconſultè ruat; rectus <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ractandi modus, &amp; propria methodus medendi prae<g ref="char:EOLhyphen"/>ceptis obſervatu facilimis, dilucida brevitate ordine<g ref="char:EOLhyphen"/>que utili demonſtrantur, ut cuique ſanae mentis errare difficile puto. Quibus igitur res eſt Anguſta domi, aut quotidiano labore parcè vitam trahunt, quorum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rumenae medicis honoraria nunquam emittunt aut argire poſſunt, eorum ſolummodò g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atia theſaurus hic inſtituitur, eo tanquam ad Aſylum morbis labo<g ref="char:EOLhyphen"/>rantes
+<pb n="2" facs="tcp:46673:3"/> confugiant, praeclara ubi auxilia ſuis cujuſque malis validè occurrendum parata eſſe invenient.</p>
+            <p>Vale lector benevole, &amp; his laboribus cum opus fu<g ref="char:EOLhyphen"/>eris feliciter fruere, ut amiſſam fanitatem quam max<g ref="char:EOLhyphen"/>ime deſideratam tibi tuiſque reſtituas, ſic ex animo op<g ref="char:EOLhyphen"/>tat &amp; precatur.</p>
+            <closer>
+               <signed>
+                  <hi>E. M.</hi> MEDICINAE DOCTOR.</signed>
+               <dateline>
+                  <hi>E Muſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eo meo</hi> Londini, <date>
+                     <hi>Prid. Calend. Maias. An.</hi> 1662.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb n="3" facs="tcp:46673:3"/>
+            <head>THE PREFACE.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Abuſes in Phyſick crept in by the man<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pretenders to knowledge, and intruders neither qualified nor authorized in the faculty, is now the Epidemical Diſeaſe of this Kingdome, deſtroying like the Plague, each Town and Village affords variety of examples, how frequently people drop away by dangerous Medicines, and ſiniſter advice of illiterate and unskilfull <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſons, is too obvious and apparent to the learned Phyſician, whoſe aſſiſtance now of late is moſt frequently deſired, to correct the errors and repair the breaches, that unknowing perſons have made, by their ignorant and bold experiments upon the bodies of each other.</p>
+            <p>Many there are the plenty of whoſe fortunes may well procure the beſt aſſiſtance and counſel the Art can afford; but ſuch is their folly, rather then part with a Fee to an able Phyſician, will ſpend much more by a lingering ſickneſſe, and perhaps cost them their lives too, by uſing improper, inſufficient, or pernicious Medi<g ref="char:EOLhyphen"/>cines.</p>
+            <pb n="4" facs="tcp:46673:4"/>
+            <p>You will not truſt a Garment to be made, but by an exact Taylor, educated and trained up in that occupation, but your Body you dare venture with an illiterate bold Empericke, or ſome honest Neighbour or Friend, who out of his ignorant kind<g ref="char:EOLhyphen"/>neſſe and fooliſh friendſhip to you, gives you a Medicine, whoſe fu<g ref="char:EOLhyphen"/>ture Effects perhaps will be worſe then your preſent Diſeaſe, and if the Doctor hears not of you now, he is ſure to have you not long after, in a worſe condition; <hi>Si populus vult decipi, deci<g ref="char:EOLhyphen"/>piatur.</hi> Theſe I have ſcarce charity to pity i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Miſcarriages, through their ſordid and fooliſh covetouſneſſe.</p>
+            <p>As for the meaner ſort of people, and thoſe of a ſcant and low Fortune, not able to purchaſe Advice and Viſits from the skilful Phyſician; that they may not betake themſelves to deceitful Re<g ref="char:EOLhyphen"/>fuges, and juggling Quacks, who will abuſe both their Bodies and Purſes: here is a Storehouſe and Treaſury to reſort to, fur<g ref="char:EOLhyphen"/>niſhed with variety of choice Medicines, where at a very ſmall charge, they may receive the benefit of wholeſome Medicines and good Advice, for their ſeveral Maladies and Diſtempers.</p>
+            <p>Here is for most occaſions you will need, Cordial, ſweating, purging, vomiting, roborating, restaurative, diuretical, diſ<g ref="char:EOLhyphen"/>cuſſing, opening and aſtringent Medicines: and this I may boldly ſay, they are as good as the Art appoints for theſe pur<g ref="char:EOLhyphen"/>poſes; and for their Prices do you judge, whoſe Purſes bave paid for your experience and knowledge, if ever you took proper and effectual phyſick for your purpoſe, at ſo cheap a Rate.</p>
+            <p>A courſe in phyſick here at Spring or Fall, will not cauſe you to complain, how expenſive your infirmities are; nor is here any large or loathſome Draughts to cauſe you to abhor the remem<g ref="char:EOLhyphen"/>brance of phyſick; but the benefit you received from the last, with ſo little trouble and offence, will invite and incourage you to take again, when occaſion calls for it. Nor will you doubt ſophi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tica<g ref="char:EOLhyphen"/>tion here, or careleſſe and ſlovenly Compoſition, or ignorant and undue preparation; having once exp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rimented the goodneſſe of them, their operation and effects will ſpeak, when I am ſilent, and prove what they are by evident demonſtration, that you need not truſt upon the credit of the Author but themſelves. Nor ſhall you fear their goodneſſe and integrity in their vertues, having kept
+<pb n="5" facs="tcp:46673:4"/> them months, or quarters, beſides you for emergent occaſions, according to their ſeveral times of duration ſet down and limited in the <hi>24.25, 26. Pages</hi> of this <hi>Book.</hi>
+            </p>
+            <p>And for the better ſecurity, to prevent any caſualty mistakes or abuſes that may happen by opening them, they are care<g ref="char:EOLhyphen"/>fully ſealed up, with a <hi>Coat</hi> of <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mes,</hi> that no preju<g ref="char:EOLhyphen"/>dice ariſe to defame the Medicines, and wrong the Author or Patient.</p>
+            <p>Reject not any Medicine, if you be not cured with the firſt Doſe. I do not promiſe you Wonders <hi>(Mountebank-like)</hi> all are not curable, and thoſe which are, require time and repetition of Medicines, eſpecially where the Diſeaſe is great, or ſtubborne and contumacious, by long continuance, old age, complication of Diſeaſes, imbecillity of Nature to co-operate: So far I dare affirm what phyſicke can doe in oppoſing or eradicating a Diſeaſe, you may expect from theſe (rightly and prudently uſed) being well acquainted with the moſt and beſt Medicines now uſed in <hi>Europe.</hi>
+            </p>
+            <p>Defame them not by your peeviſh impatience, or irational indulgence to your own way and humour, by your miſtakes and ignorance, in their taking or unfit ordering of your ſelf; by untimely, prepoſterous, or inſufficient uſe of them; by un<g ref="char:EOLhyphen"/>fit Dyet, in time, quantity or quality: by cold or any irregu<g ref="char:EOLhyphen"/>lar courſe, in or ſoon after phyſicke, which brings diſcredit to the ableſt Phyſitians, and beſt Medicines in the world.</p>
+            <p>You ſee here following their Vertues declared and what they aim at in their operation, which they have often per<g ref="char:EOLhyphen"/>formed with great applauſe and ſatisfaction. Your own rea<g ref="char:EOLhyphen"/>ſon with thoſe plain inſtructions may eaſily guide you in the right uſe of them, to perform the like with you; that what others have ſaid of them, may be verified in you, and readily you may ſay alſo, they are worthy to be famed and uſed.</p>
+            <q>Non ſatis eſt medicum ſuum feciſſe officium, niſi ſuum quo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> aegrotus, ſuum aſtantes faciant ſint<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> externa ritè comparata. <bibl>
+                  <hi>Aph.</hi>
+               </bibl>
+            </q>
+         </div>
+         <div type="index_of_diseases">
+            <pb n="6" facs="tcp:46673:5"/>
+            <head>A <hi>CATALOGUE</hi> of the Diſeaſes and Symptomes for which the Medicines are proper and peculiarly appointed: alſo the ſeveral Pages Figured, directing you to your <hi>Diſeaſe</hi> and <hi>Cure.</hi>
+            </head>
+            <list>
+               <item>Plague <hi>Page.</hi> 31</item>
+               <item>Poyſons <hi>Page.</hi> 31</item>
+               <item>Meaſels <hi>Page.</hi> 31</item>
+               <item>Small Pox <hi>Page.</hi> 31</item>
+               <item>Intermitting Fevers called Ag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es <hi>Page.</hi> 45. 43</item>
+               <item>Vertigoes <hi>Page.</hi> 28, 29, 30.</item>
+               <item>Palſies <hi>Page.</hi> 28, 29, 30.</item>
+               <item>Convulſions <hi>Page.</hi> 28, 29, 30.</item>
+               <item>Catalepſie <hi>Page.</hi> 28 29, 30.</item>
+               <item>Falling Sickneſſe <hi>Page.</hi> 28, 29, 30.</item>
+               <item>Diſtillations <hi>Page.</hi> 28, 30, 43.</item>
+               <item>Head-ach <hi>Page.</hi> 28, 39.</item>
+               <item>Sore eyes <hi>Page.</hi> 30.</item>
+               <item>Coughs <hi>Page.</hi> 33, 34.</item>
+               <item>Conſumption <hi>Page.</hi> 33, 34.</item>
+               <item>Short breath <hi>Page.</hi> 33.</item>
+               <item>Faintings <hi>Page.</hi> 33.</item>
+               <item>Palpitation of the heart <hi>Page.</hi> 33.</item>
+               <item>Bad Stomack <hi>Page.</hi> 34, 35.</item>
+               <item>Wormes <hi>Page.</hi> 38.</item>
+               <item>Wind <hi>Page.</hi> 37, 33.</item>
+               <item>Hypochondriac Melancholy <hi>Page.</hi> 36, 33, 43.</item>
+               <item>Obſtructions in the Liver or Spleen <hi>Page.</hi> 36, 43, 39.</item>
+               <item>Scurvy <hi>Page.</hi> 37, 36.</item>
+               <item>Coſtiveneſſe <hi>Page.</hi> 39.</item>
+               <item>Cholic <hi>Page.</hi> 37, 39.</item>
+               <item>Fluxes <hi>Page.</hi> 37, 43.</item>
+               <item>Jaundice <hi>Page.</hi> 36, 43, 35</item>
+               <item>Dropſies <hi>Page.</hi> 36, 43.</item>
+               <item>Stone <hi>Page.</hi> 39.</item>
+               <item>Gonorrhaea <hi>Page.</hi> 40.</item>
+               <item>French Pox <hi>Page.</hi> 41.</item>
+               <item>Womens Obſtructions <hi>Page.</hi> 41, 43.</item>
+               <item>them immoderate <hi>Page.</hi> 44.</item>
+               <item>Fits of the Mother <hi>Page.</hi> 41, 30.</item>
+               <item>Miſcarrying <hi>Page.</hi> 42, 40.</item>
+               <item>Hard Labour <hi>Page.</hi> 41.</item>
+               <item>Weak backs <hi>Page.</hi> 40, 39.</item>
+               <item>Ringworms <hi>Page.</hi> 45, 43.</item>
+               <item>Tettars <hi>Page.</hi> 45, 43.</item>
+               <item>Scabs <hi>Page.</hi> 45, 43.</item>
+               <item>Puſhes <hi>Page.</hi> 45, 43.</item>
+               <item>Pimples <hi>Page.</hi> 45, 43.</item>
+               <item>Freckles <hi>Page.</hi> 46.</item>
+               <item>Morphew <hi>Page.</hi> 46.</item>
+               <item>Spots <hi>Page.</hi> 46.</item>
+               <item>Sunburning <hi>Page.</hi> 46.</item>
+               <item>Brown Skin <hi>Page.</hi> 46.</item>
+               <item>Wrenches <hi>Page.</hi> 40.</item>
+               <item>Strains <hi>Page.</hi> 40.</item>
+               <item>Gout <hi>Page.</hi> 42, 45, 43.</item>
+               <item>For Iſſues <hi>Page.</hi> 44.</item>
+            </list>
+            <q>Multae aegritudines ſua natura ſa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>biles aegri negligentia &amp; errore, conſilia Medicorum ſaluberima reſpuentenis, fiunt incurabiles.</q>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="7" facs="tcp:46673:5"/>
+            <head>Diagnoſtic Signes.</head>
+            <p>WHereby every one may know their Conſtitution from thence, to order their Dyet and Cuſtomes ſuitable to the ſame, for the prolongation and continuance of health: or reducing them from a diſtempered ſtate, and Morbiſic in<g ref="char:EOLhyphen"/>clination, to their Primitive Conſtitution and good tem<g ref="char:EOLhyphen"/>perament.</p>
+            <p>The diverſity of Complexions or temperaments may be com<g ref="char:EOLhyphen"/>priſed under theſe four.</p>
+            <p>Sanguine, Flegmatic, Cholerick, and Melancholy.</p>
+         </div>
+         <div type="part">
+            <head>Sanguine Conſtitution.</head>
+            <p>THe Sanguine perſon is moderately hot and moiſt, hath a lively pulſe, vigorous actions, the veines full and large, of colour freſh and Roſy, for habit of body ſoft, fleſhy and mo<g ref="char:EOLhyphen"/>derately fat, of a pleaſant minde and good diſpoſition.</p>
+            <p>The Sanguine perſon being of the beſt Conſtitution is to be preſerved in that ſtate and purity, from degeneration and de<g ref="char:EOLhyphen"/>praved alteration; which is done by a due obſervance and re<g ref="char:EOLhyphen"/>gular courſe, in dyet, ayre, exerciſe and reſt, ſleeping and watch<g ref="char:EOLhyphen"/>ing, voiding and retaining of Excrements, paſſions of the minde.</p>
+            <p>In Dyet obſerve the quallity, that it afford good Nu<g ref="char:EOLhyphen"/>triment, and not hard of Digeſtion: Avoid Onions, Leeks, Garlick, Muſtard, very ſalt meats either Fiſh or fleſh, or what elſe hath a manifeſt quallity in extreame. Beware of ſtrong Liquors, Spirits and Spices (except a little moderately for the ſtomacks ſake) which inflame the blood and alter the purity of it, making it aduſt and cholerick.</p>
+            <pb n="8" facs="tcp:46673:6"/>
+            <p>In quantity be ſparing, feed not high to a beſtial ſatietety and fulneſs, intemperance vitiates and ruines the beſt tempered body, but riſe with an appetite, the ſpirits being alleviated not dulled or oppreſſed.</p>
+            <p>For times and manner of eating; obſerve you charge not the ſtomack again untill the former be concocted; nor with variety or divers kinds at once, both which are the pa<g ref="char:EOLhyphen"/>rents of crudity.</p>
+            <p>Chuſe an Aire temperate, ſerene and pure free from putrid vapours, ariſing from marriſh grounds, Lakes and ſtinking Ditches, Dung-hills, or Carrions.</p>
+            <p>Uſe exerciſe, not violently, nor ſo on after meat, ſleep mode<g ref="char:EOLhyphen"/>rately and ſeaſonably, by going to bed ſoon and riſing early.</p>
+            <p>Let no excrement of the firſt or ſecond concoction be retain<g ref="char:EOLhyphen"/>ed beyond its due time for evacuation, whether by ſtool, urine, womens monethly purgations; and uſe <hi>Venus</hi> moderate<g ref="char:EOLhyphen"/>ly, and ſeaſonably.</p>
+            <p>Let no paſſion diſturb thy mind, but endeavour a ſedate tran<g ref="char:EOLhyphen"/>quility and cheerfulneſs, which is of great moment for preſet<g ref="char:EOLhyphen"/>vation of health. <hi>Sine animo Corpus, nec ſine corpore animus, bene valere poteſt.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>Flegmatic Constitution.</head>
+            <p>THe flegmatic perſon is cold and moiſt, to action more dull and heavy, not ſo witty, ſharp, and accute, for habit of bo<g ref="char:EOLhyphen"/>dy, more groſſe and fat, not hairy, the veines ſmall and hid, the haire white or flaxen, a ſoft, weak, and ſlow pulſe; not ſo prompt to <hi>Venus,</hi> prone to ſleep and eaſe; by cold things pre<g ref="char:EOLhyphen"/>judiced, by hot things benifitted, incident to cold, and flegma<g ref="char:EOLhyphen"/>tic diſtempers, the appetite greater then the digeſtion.</p>
+            <p>Let the flegmaticks dyet be warm meats, oftner roſte then boiled.</p>
+            <p>Sugar and Hony, muſtard, ſalt and ſpices are lawful: Butter and Oyl is good Phyſick.</p>
+            <p>Olives, Capers, Broom-buds, Sampier, are good ſauce.</p>
+            <pb n="9" facs="tcp:46673:6"/>
+            <p>Abſtain from raw fruits, Apples, Pears, Plumbs, Cucumbers, Melons, &amp;c. as hurtfull.</p>
+            <p>Refrain green herbs and ſallets, as Lettuce, Purſlane, Sorrel, except Sage, Roſemary, Time, Marjerom, and ſome hot herbs.</p>
+            <p>Refuſe Fiſh, milk, and milk meats, they increaſe flegme and beget obſtructions.</p>
+            <p>Let thy drink be moderately ſtrong; a cup of Sack ſometimes is for thy health, to concock crude and ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gmatick humours.</p>
+            <p>Drink no Sider<g ref="char:punc">▪</g> Perry, Butter-milk or Whey, they are too cold and moiſt for a crude raw ſtomack.</p>
+            <p>Indulge not thy ſelf to ſleep much, it is an enemy by increa<g ref="char:EOLhyphen"/>ſing moiſture and dulling the ſpirits.</p>
+            <p>Seaſonable exerciſe and moderate abſtinence is phyſick, and great preſervatives of health.</p>
+            <p>Chuſe a warm aire, and dry ſoile, remote from waters, the beſt place for thy abode.</p>
+            <p>Hot baths are profitable, and <hi>Venus</hi> a friend. The former cheriſheth the ſpirits, opens obſtructions, and dryes up ſuperflu<g ref="char:EOLhyphen"/>ous moiſture. The latter ſuſcitates and ſtirs up the ſpirits, al<g ref="char:EOLhyphen"/>leviates<g ref="char:punc">▪</g> and helps concoction.</p>
+         </div>
+         <div type="part">
+            <head>Choleric Constitution.</head>
+            <p>THe Choleric perſon is hot and dry, eager and precipitate in his actions, contentious, haſty and angry; of body lean, ſlender, and hairy: the Veines big, a hard pulſe and quick: of colour pale or yellowiſh the haire criſp or curled. Pro<g ref="char:EOLhyphen"/>penſe t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> waking, and ſhort ſleeps: ſubject to tertian feavers, choleric puſhes and breakings out upon the skin.</p>
+            <p>Let this Conſtitution have a coole and moiſtning diet: moſt frequently boiled meats, rather then Roſt or Baked, and fryed meats never.</p>
+            <p>Uſe Brothes with cooling herbs: or Barly brothes with fruite.</p>
+            <p>Milk and milk meats are pleaſant and not hurtful: Freſh fiſh is good diet.</p>
+            <pb n="10" facs="tcp:46673:7"/>
+            <p>Muſtard, ſalt and ſpices exaſperates Choler and makes it more fierce and biting: Vinegar checks it.</p>
+            <p>Refuſe the fat and brown of meat, alſo the cruſt of bread.</p>
+            <p>Butter and Oyle is fuell to the fire; Sugar and Hony is like them, being ſoon aſſimilated and converted into choler.</p>
+            <p>Stewed Prunes with Tamarinds are good to cool, humect, and keepe the body ſoluble; to reſtraine and bridle this active humor.</p>
+            <p>Prunella's have the like effect, but not ſolutive.</p>
+            <p>Eat Sallets of Lettuce, Purſlane, Sorrel, Spinage and Violet-leaves; th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y are medicamental aliment.</p>
+            <p>Delight thy ſelf with Oranges, Lemmons, Citrons, Pomegra<g ref="char:EOLhyphen"/>nates, Apples, Quince Peaches<g ref="char:punc">▪</g> Apricocks, Damaſens, Reſpas, Currants, Barberies, Strawberries, they are profitable to con<g ref="char:EOLhyphen"/>temperate choler, cool and quench thirſt, and very much re<g ref="char:EOLhyphen"/>freſh the parched ſpirits.</p>
+            <p>Avoid Wine and ſtrong Liquors; they agitate choler, and rowzeth up thy ſleeping enemy to diſturb thee.</p>
+            <p>Buttermilk, Whey and Sider are good phyſick to extinguiſh and allay preternatural heate, to check the eff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enation of raging choler, and are like water to fire.</p>
+            <p>Faſt not but ſatisfie thy ſtomack when it calls for it: biting choler muſt have ſomething to feed on, or it will prey upon thy body.</p>
+            <p>Cheriſh and indulge ſleep, it cools and moiſtens.</p>
+            <p>Uſe little and moderate exerciſe: be not laborious but take thy eaſe.</p>
+            <p>Avoid violent motion, it fires thy ſpirits, and enrageth choler,</p>
+            <p>Fly Venus as a pernicious foe.</p>
+            <p>Gold Bathes is profitable and refreſheth much, by cool<g ref="char:EOLhyphen"/>ing the blood, allaying the Spirits and concentring them.</p>
+            <p>Baniſh anger, immoderate care, peeviſhneſſe and fretting which diſcompoſeth the ſpirits, heats and waſtes them, augments choler, dryes the body, and haſtens old age.</p>
+            <pb n="11" facs="tcp:46673:7"/>
+            <p>Refraine Tobacco as an injurious cuſtome, it exaſpe<g ref="char:EOLhyphen"/>rates Choler, by heating, drying, and evacuating flegme which contemperates, bridles, and checks the fury of acrid, ſharp bilious humors.</p>
+         </div>
+         <div type="part">
+            <head>Melancholy Complexion.</head>
+            <p>THe Melancholy perſon, naturally ſo from the firſt prin<g ref="char:EOLhyphen"/>ciples, is colde and dry: but a Melancholy tempera<g ref="char:EOLhyphen"/>ment, acquired by Education, Cuſtomes and Accidents, by degeneration and admixture of other Humors aduſt, is hot and dry. Which makes the ſignes and ſymptomes of Me<g ref="char:EOLhyphen"/>lancholy to be different and various, and a difference is to be made in dyet and cuſtomes.</p>
+            <p>If Flegme be admixed and aduſt, they are ſtupid, dull and heavy: if from blood aduſt, they are commonly of a high Ruddy Complexion, and incline to la<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ghter, wit, and mirth: if from Choler they are bold, fierce and angry: if from Melancholy aduſt, they are ſad, fearful, and ſoli<g ref="char:EOLhyphen"/>tary.</p>
+            <p>The common Symptomes are a Pale, Black, or high Sanguine colour, leane body, and hairy, a little Head, large Veines, given to be watchfull, ſad, ſolitary, ſuddaine laughter; a ſlow weake Pulſe, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oubleſome ſleepes and dreames.</p>
+            <p>Colde Melancholy hath milde Symptomes: if hot and aduſt, the effects are more churliſh and furious.</p>
+            <p>For colde Melancholy, let the Dyet be hot and moiſt; for the hot Melancholy Perſon, let dyet be cooling and moiſt: in both let their meates be of light Digeſtion, affording good Nutriment; and not windy. As Mut<g ref="char:EOLhyphen"/>ton, Lambe, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eale, Capon, Chicken, Hen, Patridge, Pheſant, &amp;c.</p>
+            <pb n="12" facs="tcp:46673:8"/>
+            <p>Abſtain from Veniſon, Hare, Goats fleſh, Pigeon, Eeles, Salt Beef, ſalt fiſh, Geeſe, Ducks; dryed meats, fryed or broyled; old Cheeſe, Beans, Peaſe, Rye-bread.</p>
+            <p>Refuſe Cabbage and Coleworts.</p>
+            <p>Potatoes and Parſnips good; Carrots and Turneps not hurtful, if the perſon be conſumptive, hot and dry.</p>
+            <p>Capers, Broom buds, and Sampier are good ſauce, they open obſtructions of the Liver and Spleen.</p>
+            <p>Muſtard and Vinegar bad, and all ſoure ſauces, they make me<g ref="char:EOLhyphen"/>lancholly more contumacious and fixed.</p>
+            <p>Spices not good, if the perſon be hot, they cauſe aduſtion.</p>
+            <p>Uſe Borrage, Bugloſſe, Endive, Succory, Baume, Fumiterry, Lettuce, Marygold-flowers, Violets, Clove-gillyflowers, Saf<g ref="char:EOLhyphen"/>fron, they alter and quallifie the humour, and cheere the ſpirits.</p>
+            <p>Uſe Barly Brothes with Prunes, Raiſons and Currants.</p>
+            <p>If melancholly be aduſt, and your body hot and coſtive; eat ap<g ref="char:EOLhyphen"/>ples, Cherries, Plums, Strawberries, and ſuch like fruits, to coole and moiſten.</p>
+            <p>Drink W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey, Sider and ſmall white wines.</p>
+            <p>Refuſe black wines and ſtale Beer.</p>
+            <p>Keep the body ſoluble, your head will be more free from fumes, paine, and heavin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe.</p>
+            <p>Cheriſh ſleep it refreſheth the ſpirits, pacifieth a troubled mind, and baniſheth cares.</p>
+            <p>Fly idleneſs, the nurſe of melancholly: Exerciſe often, and follow buſineſs.</p>
+            <p>Walk in the green Fields, Orchards, Gardens, Parks, by Ri<g ref="char:EOLhyphen"/>vers, and variety of plac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s.</p>
+            <p>Change of Aire is very good.</p>
+            <p>Avoid ſolitarineſſe and keep merry company.</p>
+            <p>Frequent Muſick, ſports and games.</p>
+            <p>Recreate the ſpirits with ſweet, fragrant, and delightfull ſmells.</p>
+            <p>Moderate <hi>Venus</hi> good.</p>
+            <p>Baniſh all p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s as much as in you lies, fear Grief, Deſpaire, Revenge, deſire, je<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>louſie, emulation, and ſuch like. <hi>Opus est te animo valere, ut corpore poſſis.</hi> Cicer.</p>
+            <pb n="13" facs="tcp:46673:8"/>
+            <p>Tobacco naught (eſpecially if melancholly be aduſt and a hot body) it heats, and exhauſts humidity, makes melancholy more contumacious,</p>
+            <p>Give not your ſelf to much ſtudy, nor night watchings, they both dry the body, and make humours aduſt, two great enemies to a melancholy perſon.</p>
+         </div>
+         <div type="part">
+            <head>Phyſiological and Diaeteticall Ob<g ref="char:EOLhyphen"/>ſervations and Counſells.</head>
+            <p>
+               <hi>IN</hi> the diſquiſition and diligent obſervation to know and finde out your own constitution by certain Characters, you must not expect all be ſignes before mentioned in the particular complexions to meet in <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſingle perſon demonstrating this or that temperament: For there <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not to be found a perſon ſo flegmatick, without the admixture of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>holer; nor ſo cholerick without ſome flegme; nor ſingley melancholy, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithout both; nor purely ſanguine, but participating of all. From <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hence it is, the ſignes in this or that perſon are not all ho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>genious declaring one humour in particular, but mixed, as the hu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>urs alſo are different and mixed: but by comparing them together, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may eaſily diſcern, which do exceed in number and which are <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ongest in ſignification; from thence conclude ſuch a humour to be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>edominate<g ref="char:punc">▪</g> and that to denominate the conſtitution; to which you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ust have a conſtant eye, that it grow not too luxuriant and abound<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g, from whence diſeaſes will ariſe according to the nature of that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umour, if not rightly moderated, qualified, and kept <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>der.</p>
+            <p>Your temperament being thus rightly examined and found out; will be no ſmall advantage for the regulating all your actions and cu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mes ſutable thereto, either to preſerve it in that ſtate, if tempe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te; or reduce it from a distempered condition and ſickly inclination;
+<pb n="14" facs="tcp:46673:9"/> which duely and rationally may be performed if you follow the rules and preſciptions in each particular Constitution appointed in the preceding pages.</p>
+            <p>If your Conſtitution be Flegmatic, do what the choleric perſon is forbidden; but if Choleric<g ref="char:punc">▪</g> cleave to that the Phlegmatic perſon must avoid; if Sanguine, keep a mediocrity between both; if Melancholy; obſerve its proper remedies.</p>
+            <p>Change your dyet according to the ſeaſons of the year, the variati<g ref="char:EOLhyphen"/>on of your temperament, and inclination to ſuch or ſuch a diſtemper. In Winter more meate, and leſſe drink: In Summer leſſe meate, and more liquids: In hot weather a cooling dyet, in cold weather, that which is warme and heating.</p>
+            <p>Temperate bodies are preſerved by temperate things, and their like; distempered bodyes are rectified and reduced by their contraries and diſſimilar: a hot and dry body, must have a cooling and moist dyet; a colde and moiſt body, a hot and dry dyet.</p>
+            <p>The variety of humors in mans body, impugning one another with their contrary quallities, are not eaſily kept in ſubjection, but by a di<g ref="char:EOLhyphen"/>ligent watch and ſtrict obſervance, in your daily customes and pra<g ref="char:EOLhyphen"/>ctice: for by a careleſſe and irregular courſe the equallity of oppoſition is broken, and ſome particular humor growes predominate, which pro<g ref="char:EOLhyphen"/>duceth diſtempers according to its nature, power, and heighth arri<g ref="char:EOLhyphen"/>ved at, and the condition of the ſubject or parts it chiefly in<g ref="char:EOLhyphen"/>fests.</p>
+            <p>As the external colour of the body is various and divers, ſuch are the humors internal abounding.</p>
+            <p>The purity of the humors in mans body, render the minde mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> active, light, cheerful and airy.</p>
+            <p>The groſneſſe, feculency and impurity, makes a heavy indiſpoſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and depraved minde, clogging the ſoul as with fetters.</p>
+            <p>Who ſo priſeth the integrity and perfections of the minde<g ref="char:punc">▪</g> muſt hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an eſpeciall care for the preſervation of the body; being bettered o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made worſe by each others changes and affects; for the Acti<g ref="char:EOLunhyphen"/>ons and Paſſions of the minde doe very much follow and ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſubj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, to the temperament, nature, and quallity of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> body.</p>
+            <pb n="15" facs="tcp:46673:9"/>
+            <p>Exceed not in any thing, but keepe to a Mediocrity which is most Durable, and agreeable to Natu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for its preſer<g ref="char:EOLhyphen"/>vation.</p>
+            <p>Alter no custome ſuddainly, but by degrees, although from bad to better; ſuddaine changes are Dangerous and Inju<g ref="char:EOLhyphen"/>rious to Nature, which acts Gradually, and by fit Me<g ref="char:EOLhyphen"/>diums.</p>
+            <p>Think not your ſelfe ſecure in any ill Courſe or Custome (con<g ref="char:EOLhyphen"/>trary to the Rationall Lawes and Rule of Phiſick) becauſe you are not immediately Chastiſed with the Conſequents and ill Effects thereof, concluding from thence all is Well; but know though the Errors be but ſmall in one ſingle Act, yet often repeated, Accu<g ref="char:EOLhyphen"/>mulate and Swell into great Diſtempers which manifest them<g ref="char:EOLhyphen"/>ſelves in that Seaſon of the yeare, most ſuitable to their own<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Inclinations and Diſpoſition for ſuch Productions. The Heates and Coldes taken in Summer<g ref="char:punc">▪</g> and the Luxuriant feeding on the Fruits of that ſeaſon, produce dangerous Diſeaſes in Autume following. The intemperate, Erroneous practice of Winter diſco<g ref="char:EOLhyphen"/>vers it ſelfe, and Rebukes your Folly, by a ſickly Spring. The change of the Ayre and Constitution of the Seaſons, makes Impreſſion upon the Humors of the Body, inclining to this or that Diſtemper, as they are prediſpoſed and vitiated by your own irregular Customes and Practice.</p>
+            <p>Contemne not ſmall Changes and Alterations in the Body, they are the Praeludiums, or warnings of greater to follow, but oppoſe them by a Rationall Practice and due Ordering of your ſelf, in Eating and Drinking, Exerciſe and Reſt, Ayre, Sleep<g ref="char:EOLhyphen"/>ing, and Watching, <hi>Venus,</hi> and Poſſions of the minde; refrain<g ref="char:EOLhyphen"/>ing what may promote and aggravate your Morbific inclination, and Accuſtoming to that which Suppreſſeth and Checks it: be<g ref="char:EOLhyphen"/>ing perſwaded of this truth; the beginning of moſt Diſeaſes are better cured by Regular Dyet, and due Order, then Phyſick.</p>
+            <q>Magna pars ſanitatis bene moratus venter.</q>
+         </div>
+         <div type="part">
+            <pb n="16" facs="tcp:46673:10"/>
+            <head>Signes indicating Purgation.</head>
+            <p>A Thick or muddy Urine, pale and thin, red and ill ſa<g ref="char:EOLhyphen"/>voured, or often changing.</p>
+            <p>Laſſitude and indiſpoſition for motion or action.</p>
+            <p>Prickings or pain<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the skin or fleſh, erratic or fixed.</p>
+            <p>The complexion altered: dulneſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and unwonted heavineſs: reſtleſs watchings: diſturbed and troubleſome ſleepe: ſweat<g ref="char:EOLhyphen"/>ings in the night: fulneſſe or diſtention of the belly and hypo<g ref="char:EOLhyphen"/>chonders: ſhortneſs of breath.</p>
+            <p>A looſeneſs or flux of humors ſtimulating to expulſion: gripings in the belly.</p>
+            <p>Heavineſs, pain, or weakneſs (without m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nifeſt cauſe) about the loynes, thighes, or knees.</p>
+            <p>Theſe ſignes declare the body wants purging,
+<q>
+                  <l>Satius eſt morbo ingruenti occurrere,</l>
+                  <l>quam invaleſcenti cum periculo mederi.</l>
+               </q>
+            </p>
+         </div>
+         <div type="part">
+            <head>Advice and Cautions in Purging.</head>
+            <p>IF your body be Coſtive, of a hot and dry conſtitution, pre<g ref="char:EOLhyphen"/>pare it ſome dayes before purging, with cool and moiſtning Brothes, ſtewed Prunes, Whey, or the like. Your phyſick will operate much better, with leſs gripings, and more effectual. For a hot and dry body ſucks in the Phyſick ſo ſtrongly, that it cannot work freely and kindly, as otherwiſe it would doe. If the weather be cold, correct i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with a warm Chamber, and good fire: if very hot; take your phyſick e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ly at 5. of the clock, and keep little or no fire: in ſo doing, you may take phyſick at any time of the year ſafely, and with ſucceſſe, if occaſion require.</p>
+            <p>Draw the Curtaines before your Windowes, and darken the Chamber, untill your Phyſick have done working.</p>
+            <p>If your ſtomack be very weak and nauſeating; and not
+<pb n="17" facs="tcp:46673:10"/> from repletion: or if you be in a high and accute Feaver, then uſe clyſters.</p>
+            <p>In all violent paines, and inflamations of what part ſoever; in all contumacious obſtructions of the Guts, take no purging phyſick but by Clyſter, untill the body be open, and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſpirits allayed.</p>
+            <p>Retain no purging Clyſter above an houre, but part with it.</p>
+            <p>Eſteem not the goodneſſe of your purge by the quantity and number of ſtools; but by the quallity of them, and the effects afterwards.</p>
+            <p>Covet not ſtrong purges, to have many ſtooles in a day (a common Error) which offers violence to nature, and forcibly ſweeping down both good &amp; bad together: but rather endeavor to attract the offending cauſe gently, by degree<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, intermitting a day or two, giving nature time for ſeparation of humors, you will finde it much more beneficiall, nature more kindly aſ<g ref="char:EOLhyphen"/>ſiſting, and leſſe weakned.</p>
+            <p>On the intermitting dayes, keep a good dyet, with opening Broth and ſpoon-meat, to keep your body fluid, and ready for the next dayes operation: beware of cold that you obſtruct not your body and occlude the paſſages &amp; ductures before laid open, which will cauſe your Phyſick to work with torſions and gripings, and leſs effectual.</p>
+            <p>If the Morbific Cauſe lye in the ſtomack or bowels being in the paſſage, ready and near the place of Evacuation: you will not need ſo ſtrong phyſick, nor ſo often purging, as when it is ſeated in parts more remote and at diſtance.</p>
+            <p>Delude not your ſelf with one dayes purge, expecting great matters from it; you muſt know, the firſt Doſe ſtirres up more humors then it can evacuate, and untill they be carried away, you cannot expect your deſired effect, which will be after 3. or 4 dayes purging (time little enough to cleanſe a foul body) but let it be with intermiſſion of a day or two.</p>
+            <p>Take your purging Pills, or Electuary, early in bed, lye an hour, after that hour you may ſleep, but not longer: when it begins to operate Sleep not, nor lye down untill your Phy<g ref="char:EOLhyphen"/>ſick
+<pb facs="tcp:46673:11"/> have done working; except you be weake, and your phyſick worke, ſtrongly; then towards the latter end, you may lye down to refreſh you, but not ſleep except there be occaſion to ſtay the working.</p>
+            <p>Drink a little thin Broth between your ſtools, made with a bit of Veale or Mutton, a Cruſt of bread, a Fennel and Parcely Root: if you be oppoſite to Broth, drink Poſſet drink of ſmall Ale or Beer. But if you have a ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Coſtive body, drink plain Whey, it is better then either, and your Phyſick will work more freely and eaſily.</p>
+            <p>Eat your Dinner 5 or 6 hours after your Phyſick taken, ab<g ref="char:EOLhyphen"/>ſtaine no longer.</p>
+            <p>All Pills are moſt eaſily ſwallowed with a little Beer or poſ<g ref="char:EOLhyphen"/>ſet drink in a ſpoon.</p>
+         </div>
+         <div type="part">
+            <head>Signes for Vomiting.</head>
+            <p>FUlneſs or oppreſſion at the Stomack nauſeating, loathing or vomiting. Loſſe of appetite and digeſtion, through ſoule<g ref="char:EOLhyphen"/>neſſe of the ſtomack.</p>
+            <p>Perturbation and trouble about the ſtomack and parts adja<g ref="char:EOLhyphen"/>cent, by Humours floating upwards, having a tendency that way for Evacuation.</p>
+            <p>Bitter, or Acide belchings into the mouth.</p>
+            <p>Heat, and breakings out in the mouth and lips.</p>
+            <q>Opprime dum nova ſunt ſubiti mala ſemina morbi. <bibl>
+                  <hi>Ovid.</hi>
+               </bibl>
+            </q>
+         </div>
+         <div type="part">
+            <head>Advice and Cautions in Vomiting.</head>
+            <p>TAke your Vomit early in the morning, your ſtomack will ſooner nauſeate and diſcharge it ſelf, and your Vomit work more freely and eaſily, when humors are floating and active.</p>
+            <pb n="19" facs="tcp:46673:11"/>
+            <p>If you be ſtrong take it faſting; if weak or hard to vomit, eat a Meſſe of VVater-gruell with Butter in it, a little b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fore.</p>
+            <p>Be very looſe about your Stomack and Belly, that the Muſcles may diſtend and contract, without Compreſſion and interruption of their motion.</p>
+            <p>Drink ſmall Beer Poſſet-drink, or warm water between your Vomits; and the more you d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ink the eaſier will you vomit, and ſooner finiſh the operation.</p>
+            <p>Lye not down untill your Vomit have done working, except you intend to check the Operation: but if you be weake, and not well able to endure up longer; you may ſafely, it will refreſh you, but ſleep not.</p>
+            <p>When it hath done working, take two or three ſpoonfulls of Claret Wine boiled with a little Mint and Cinnamon, and lye to ſleep.</p>
+            <p>Where there is Youth, or fit Age, ſtrength of Nature, Cuſtome or Facility and aptneſſe for Vomiting; they may boldly and profitably uſe this way of evacuation, and diſ<g ref="char:EOLhyphen"/>charge Natures burthen and oppreſſion in the Spring, Summer, or Autume, when ſome of the foregoing ſignes doe prompt and indicate the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me.</p>
+            <p>But if there be decay in Natu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and great weakneſſe, debility of ſtomack by long ſickneſſe, or old Age; if with Childe, or ſubject to fits of the Mother, or Swooning; If the Head be weake and infirme, the Neck Long, Sl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>der, and ſtraight-breſted; the Lungs and Vitall parts weak, or conſumptive, or difficult and hard to vomit, or have a Rupture: let ſuch perſons avoid vomiting as dangerous and hurtfull, but rather chuſe to draw the offending Cauſe downwards by Clyſter, Pills, &amp;c.</p>
+         </div>
+         <div type="part">
+            <pb n="20" facs="tcp:46673:12"/>
+            <head>Advice and Cautions for Sweating, <hi>with its Effects and Benefits.</hi>
+            </head>
+            <p>CHoleric and dry bodies, neither ſweat eaſily, nor well en<g ref="char:EOLhyphen"/>dure it.</p>
+            <p>For Phlegmatic ſerous and Sanguine conſtitutions, ſweating is more facile and beneficiall, and nature more prompt.</p>
+            <p>In cold, and moiſt Diſeaſes, ſweating profits much: as Pal<g ref="char:EOLhyphen"/>ſies, Rheumes, Gouts, Dropſie, &amp;c.</p>
+            <p>For Swarthy and muddy Complexions, diſcolourations and ſpots upon the skin, that ariſe from a foule Cachectic body; after due purgation, ſweating depurates, thinns and cleeres the skinne.</p>
+            <p>In cold Conſtitutions, and where the blood is groſſe, thick and impure, cauſing obſtructions in the ſmaller veſſels, or ſlow of motion; moderate breathing ſweats clarifies the blood, at<g ref="char:EOLhyphen"/>tenuates, rarefies, and helps circulation.</p>
+            <p>All inflations by winde, or ſerous and watery humors that tumefie the skin, ſweating tranſpires, evaporates and breathes out.</p>
+            <p>In all Malignant, Contagious and Peſtilentiall Feavers; as Plague, ſmall Pox, Meaſels, ſpotted Feaver, and the like; ſweat<g ref="char:EOLhyphen"/>ing Cordials is your chiefeſt help.</p>
+            <p>In all Contuſions and Bruiſes, tumors and collection of Hu<g ref="char:EOLhyphen"/>mors; after Phlebotomy and convenient purgation, by Glyſter or otherwiſe, to retract the confluence of humors reſorting thither; ſweating and Diaphoritick Medicines, reſolves, diſſi<g ref="char:EOLhyphen"/>pates and ſcatters them, and relieves the part affected.</p>
+            <p>Winde and flatulent vapours in any Concave part engirt and kept in, by inveterate obſtructions of the Ductures and paſſa<g ref="char:EOLhyphen"/>ges, ſweating opens the Pores, diſcuſſeth and by inſenſible tranſpiration ſends them forth.</p>
+            <p>In all Defluxions and deſtillations to the Eyes, Lungs, Joynts or other parts; ſweating moderates and abates the Antecedent Cauſe, diverts the courſe and current of the humor, and is very profitable.</p>
+            <p>In degenerations of the blood, Crudity, Acidity, Coagula<g ref="char:EOLhyphen"/>tion,
+<pb n="21" facs="tcp:46673:12"/> putrefaction, &amp;c. gentle breathing ſweats procures fer<g ref="char:EOLhyphen"/>mentation, concoction, rarefaction, depuration, and conduceth much to its reſtitution.</p>
+            <p>Bodies ſubject to ſweating in the night, either want purg<g ref="char:EOLhyphen"/>ing, or elſe feed too plentifully.</p>
+            <p>Take no ſweating Medicine untill you have firſt purged, un<g ref="char:EOLhyphen"/>leſſe the emergency and preſent neceſſity of the occaſion, does not permit ſuch a delay; as in Diſeaſes of a Malignant, conta<g ref="char:EOLhyphen"/>gious, and venenate quallity.</p>
+            <p>Firſt purge to cleanſe and carry away the fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th and groſſer matter in the ſtomack and bowels, the fitteſt for that way of evacuation (that you drive it not into the habite of the body) then ſweat to purifie the blood and external parts.</p>
+            <p>In the Venereal Diſeaſe, when the blood and ſpi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>its is taint<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and vitiated with a peculiar virulency and Malignity; to uſe proper and Specific Diaphoretics and ſweating Medicines, is the ſafeſt, and beſt way for cure. <hi>Praemiſſis praemittenda.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>Indications, Advice and Cautions for Bleeding, <hi>with its Eff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts and Benefits.</hi>
+            </head>
+            <p>IF your veines be full and diſtended, breath a veine, or be very temperate, you are then ſubj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct to many diſtempers from plenitud<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>If you feell a heavineſs or oppreſſion of Spirits, a quick pulſe and ſhortneſſe of breath; open a Veine for Ventilation, and you will finde alleviation and refreſhment.</p>
+            <p>In peracute and burning Feavers, and all dangerous infla<g ref="char:EOLhyphen"/>mations, as Plurifies, Quinſies, Phrenſies, &amp;c. open a Veine ſpeedily, by day or night, notwithſtanding any contrary in<g ref="char:EOLhyphen"/>dication to forbid it.</p>
+            <p>In all violent and ſuddain pains contuſions, and hot tumors collecting, open a Veine to prevent a Feaver, and to retract the Current of humors reſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting to the part affected.</p>
+            <p>In all Diſeaſes from plenitude, or conjunct with it, threat<g ref="char:EOLhyphen"/>ning ſuffocation and ſuddain death; as Lethargies, Convulſi<g ref="char:EOLhyphen"/>on,
+<pb n="22" facs="tcp:46673:13"/> Epilipſie, Suffocating Catarrhs, Hyſteriacll paſſions, Pal<g ref="char:EOLhyphen"/>pitations of the Heart, riſing of the Lungs, and ſuch like, Blood-letting is very neceſſary, and beneficiall.</p>
+            <p>In all Evacuations of blood imoderate, and hurtfull, whe<g ref="char:EOLhyphen"/>ther at the Noſe, by Stoole, Urine, Vomiting, Spitting, Hae<g ref="char:EOLhyphen"/>morrhoides, or monethly Purgations, ariſing from Plenitude. Heat, Acrimony, or attenuation of the blood; open a veine for revulſion to turn the courſe and current, take blood a little at once, by a diſcreet Chirurgion; it is proper, ſafe and beneficiall.</p>
+            <p>In all Malignant and contagious Feavers, whether Plague, Small Pox, Spotted Feaver or the like: in the beginning, and before there be any appearance outwardly upon the skin, if the Feaver be intenſe and high, open a veine to mitigate and abate vehement Symptomes: but afterwards when Na<g ref="char:EOLhyphen"/>ture hath ſeparated, protruded and brought forth the Ma<g ref="char:EOLhyphen"/>lignity to the skin, opening a veine, retracts and draws back again; weakens and diſcourageth Nature, and is very dan<g ref="char:EOLhyphen"/>gerous and mortal.</p>
+            <p>To prevent Abortion in Women with childe, ſubject to miſcarry by reaſon of plenitude and fulneſſe of blood; breathing a veine at the Arme is very neceſſary for her ſafety.</p>
+            <p>In all Fevers requiring Phlebotomy, let it be done in the beginning when Nature is ſtrong, and the Diſtemper leſſe prevalent.</p>
+            <p>After long and waſting ſickneſſe, take heed of blood letting.</p>
+            <p>In Women and fatt bodies take blood ſparingly; in men and lean bodies, and thoſe who have large veines, take more freely.</p>
+            <p>If the Maſſe of blood be wholly vitiated and naught, be ſparing in Blood letting; but purifie it by gentle Purgation, Sweating, Medicamentall Aliment and pro<g ref="char:EOLhyphen"/>per dyet.</p>
+            <pb n="23" facs="tcp:46673:13"/>
+            <p>Before ten, and after ſixty years age, let no Veine be open<g ref="char:EOLhyphen"/>ed but upon urgent occaſion.</p>
+            <p>If the Diſeaſe be great and urgent, requiring large Evacu<g ref="char:EOLhyphen"/>ation, and Nature imbecile and weake; take blood at twice or thrice, itermitting 6 or 12 hours diſtance, as the skilful Chi<g ref="char:EOLhyphen"/>rurgeon ſhall ſee cauſe.</p>
+            <p>When Phlebotomy and Purgation are both required, and the Diſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſe ſeated in the Veines and habite of the body; firſt bleed then purge: but if otherwiſe, and chi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fly in the ſtomack, bowells, and parts adjacent; firſt purge, then bleed.</p>
+            <p>If there be ſuppreſſion of a wonted Evacuation, and Detri<g ref="char:EOLhyphen"/>mentall, or obſtruction contrary to the Law of Nature; open a Veine to exonerate and alleviate for the preſent, Nature will be betteer able to relieve it ſelf for the future.</p>
+            <p>In Symptomaticall tranſlations of a turgid humour, aeſtua<g ref="char:EOLhyphen"/>tions and ebullitions of the blood; cauſing a general perturba<g ref="char:EOLhyphen"/>tion, or erratic paines, reſtl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſeneſſe and unquiet watchings in the night; Breathing a Veine Refrigerates, Allayes, and checks the effrenation of humours.</p>
+            <p>For Anniverſary and imminent Diſeaſes, ariſing from Pleni<g ref="char:EOLhyphen"/>tude, and Luxuriant blood: opening a Veine anticipates and prevents them.</p>
+            <p>In vehement Diſtempers requiring Phlebotomy, look not upon the quallity of the blood, but make detraction accord<g ref="char:EOLhyphen"/>ing to the quantity, having reſpect to the ſtrength of the Pa<g ref="char:EOLhyphen"/>tient.</p>
+            <p>After Phlebotomy uſe a ſpare and good Diet, that you fill not your Veines with crudities, and ill humours.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>Iſiodor.</bibl>
+            </q>
+         </div>
+         <div type="part">
+            <pb n="24" facs="tcp:46673:14"/>
+            <head>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. The Phyſitians <hi>ARMORY,</hi> wherein you may view A Magazine of Rare Medicines, Claſſically diſtributed and digeſted: Specificly appro<g ref="char:EOLhyphen"/>priated; properly denominated; moderately prized; the full Doſes in each M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dicine numbred; the du<g ref="char:EOLhyphen"/>ration of each Medicine in its full vertue juſtly limited.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label" rows="2">Appropri<g ref="char:EOLhyphen"/>ation.</cell>
+                     <cell role="label">Denomination.</cell>
+                     <cell role="label">Doſes</cell>
+                     <cell role="label" rows="2">Duration moneths.</cell>
+                     <cell role="label" cols="2">Price.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>ſhil.</cell>
+                     <cell>pence</cell>
+                  </row>
+                  <row>
+                     <cell rows="6">
+                        <hi>To the Braine.</hi>
+                     </cell>
+                     <cell>
+                        <hi>Capital Pills,</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Epileptick Powder.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cephalic Electuary.</hi>
+                     </cell>
+                     <cell>
+                        <hi>many</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Catarrh Pills.</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Epileptic Amulet.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fuming Powder.</hi>
+                     </cell>
+                     <cell>
+                        <hi>many</hi>
+                     </cell>
+                     <cell>36</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Eyes.</cell>
+                     <cell>
+                        <hi>Opthalmic Water.</hi>
+                     </cell>
+                     <cell>
+                        <hi>many</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">Heart.</cell>
+                     <cell>
+                        <hi>Bezoardic Antidote</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cordial Tincture.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <pb n="25" facs="tcp:46673:14"/>
+                  <row>
+                     <cell rows="3">Lungs</cell>
+                     <cell>
+                        <hi>Pectoral Electuary</hi>
+                     </cell>
+                     <cell>
+                        <hi>many</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Asthmatic Pills</hi>
+                     </cell>
+                     <cell>
+                        <hi>many</hi>
+                     </cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hectio Confection.</hi>
+                     </cell>
+                     <cell>
+                        <hi>many</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell rows="4">Sto<g ref="char:EOLhyphen"/>mack.</cell>
+                     <cell>
+                        <hi>Digeſtive Electuary.</hi>
+                     </cell>
+                     <cell>
+                        <hi>many</hi>
+                     </cell>
+                     <cell>9</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Stomack Pills.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Great Elixir.</hi>
+                     </cell>
+                     <cell>
+                        <hi>many</hi>
+                     </cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Emetic Tincture.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell rows="4">Liver and Spleen</cell>
+                     <cell>
+                        <hi>Hydropic Powder.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Splenetic Pills.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spleen Plaſter.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Scorbute Tincture.</hi>
+                     </cell>
+                     <cell>
+                        <hi>many</hi>
+                     </cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell rows="5">Guts.</cell>
+                     <cell>
+                        <hi>Diſcuſſive Powder.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Retentive Electuary</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>9</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tincture for worms.</hi>
+                     </cell>
+                     <cell>
+                        <hi>many</hi>
+                     </cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pills for worms.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Clyster Electuary.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                     <cell>4</cell>
+                  </row>
+                  <pb n="26" facs="tcp:46673:15"/>
+                  <row>
+                     <cell rows="3">Reins and Blad<g ref="char:EOLhyphen"/>der.</cell>
+                     <cell>
+                        <hi>Nephritic pills.</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Roborating pills.</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Srengthning plaster.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell rows="6">Geni<g ref="char:EOLhyphen"/>tal parts.</cell>
+                     <cell>
+                        <hi>Restringent powder.</hi>
+                     </cell>
+                     <cell>
+                        <hi>many</hi>
+                     </cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Antivenereall pills.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>18</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Expulſive powder.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hysterical powder.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Feminine Pills.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Womens preſervative</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>Joynts</cell>
+                     <cell>
+                        <hi>Arthritic pills.</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>18</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell rows="9">Miſcel<g ref="char:EOLhyphen"/>laneous and Gene<g ref="char:EOLhyphen"/>rall Medi<g ref="char:EOLhyphen"/>cines.</cell>
+                     <cell>
+                        <hi>Catholic Pills.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Aperitive Powder.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sudorific Pills</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>18</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Haematic Powder.</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Purgative Electuary.</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>9</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Iſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ue Plaſters.</hi>
+                     </cell>
+                     <cell>4</cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>0</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Febrific Antidote.</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>12</cell>
+                     <cell>1</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Camphire Powder.</hi>
+                     </cell>
+                     <cell>
+                        <hi>many</hi>
+                     </cell>
+                     <cell>24</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Coſmetic water.</hi>
+                     </cell>
+                     <cell>
+                        <hi>many</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="27" facs="tcp:46673:15"/>
+            <head>Generall Inſtructions for the Doſes, and Quantities, neceſſary to be obſerved in the taking of any Medicine: and the right Manner of keeping and preſerving them from decay.</head>
+            <p>A Doſe is the juſt and due quantity of a Medicine to be taken, or uſed at once.</p>
+            <p>The full Doſe is for men and women of ſtrength, but if they be weak and tender bodies, or by experience have found, that leſſe will operate with them then other bodies require, let ſuch take the Doſes for the age 14 preſcribed, I meane chiefly in vo<g ref="char:EOLhyphen"/>miting, or purging Medicines.</p>
+            <p>Obſerve the quantities preſcribed for the ſeveral Ages, and rather offend under then over, the next Doſe you may amend by taking a little more, if the firſt be too weake, there is no harm in that.</p>
+            <p>After the firſt Doſe of any Medicine taken, your own rea<g ref="char:EOLhyphen"/>ſon and ability of body, will eaſily direct you in the next, whether to keep to the ſame, to augment, or diminiſh: for you muſt know the difference of bodies is ſuch in operation, that they require oftentimes a different quantity for their pro<g ref="char:EOLhyphen"/>portion to produce the like effect, which cannot exactly be de<g ref="char:EOLhyphen"/>termined and appointed, by the preſcience of the moſt skilfull Phyſitian, untill the firſt Experiment and tryall of their bodies.</p>
+            <p>Therefore ſlight not any Medicine if it anſwers not your expectation at the firſt, but prove it farther, and alter the quantity, more or leſſe, as you find it requiſite for your purpoſe and condition of body.</p>
+            <p>But let me Caution you this: In Chronic Diſeaſes that are ſlow of Motion, and gives you ſufficient time for Cure, never deſire ſtrong Phyſick, but imitate Nature which acts Gradually and gently, does nothing Haſtily and Violently. Phyſick can doe nothing of it ſelfe, but as an Auxiliary and help to Nature; and if Nature does not Cooperate, you muſt expect no benefit: therefore if you go
+<pb n="28" facs="tcp:46673:16"/> natures pace, you will have Nature aſſiſting with the meanes: but if you be haſty and put all your hopes in the ſtrength of your Phyſick, and ſtrive to doe as much in one day as is fit for three dayes work, you precipitate Nature, defame good Medicines, and wrong your own body.</p>
+            <p>But when the Diſeaſe is vehement and accute, threatning ſud<g ref="char:EOLhyphen"/>dain death, as Apoplexy, Lethargie and the like; then uſe ſharp and quick Medicines, becauſe the time for cure is but ſhort, and will admit of no delay. <hi>Vehementi malo, forti omnino auxilio opus est.</hi>
+            </p>
+            <p>What Medicines you would keep for a long time, to ſerve for accidental occaſions; ſet them in dry places, not near the ground, or damp walls, nor in the open ayre, and they will remain in their vertue and goodneſſe according to their ſeveral times prefixed, in the preceding Table of Medicines.</p>
+         </div>
+         <div type="part">
+            <head>The Vertues, right Vſe, and Due Quantities of each Medicine particularly and diſtinctly Declared.</head>
+            <div type="section">
+               <head>For the Head;</head>
+               <p>THe Capitall Pills purge and cleanſe the Brain from all ſuperfluous Humours, that ſtupifie and dull the Ratio<g ref="char:EOLhyphen"/>nall Faculty, or obſtruct and hinder the right Operation of the Senſitive: they quicken the Memory, open the Ventricles of the brain, and free the Nerves from obſtructions; conducing much to the cure of all infirmities ſeated in the Head and Nerves; as Convulſions, Falling-ſickneſſe, Apoplexy, Palſies, Vertigoes, Rhumes, Head-ach, dull ſight or hearing: by taking
+<pb n="29" facs="tcp:46673:16"/> away the Antecedent Cauſe that generates and produceth them.</p>
+               <p>Take them 3 or 4 dayes with intermiſſion of a day or two, obſerving the directions for purging, in the 16, 17, 18 pages.</p>
+               <p>The full Doſe is 5 Pills: for 14 years old 3 pills: for ſeven years, 2 pills.</p>
+               <p>The <hi>Epileptic Powder,</hi> is a ſpecific Remedy againſt Convulſi<g ref="char:EOLhyphen"/>ons, and Convulſive motions in Children. In the fit, obſerve by laying your hand, if there be a riſing or working at the childes ſtomack, then put a Feather annointed with Oyle of ſweet Olmonds into the throat, and cauſe the Childe to vo<g ref="char:EOLhyphen"/>mit up that ſuffocating flegme and crude matter that oppreſ<g ref="char:EOLhyphen"/>ſeth; afterwards give a Doſe of this Powder: but if there be no heaving at the ſtomack; apply a bliſtering plaſter between the ſhoulders, and give the powder: you will ſee a good effect.</p>
+               <p>The Doſe for 7 years old is one paper: for 3 years half a paper: for a year old, ten grains: for half a year, 6 grains, to be given in ſmall Cinnamon water or Sack, if the Childe be two years old; if under, in black Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rry water or Pae<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny.</p>
+               <p>For prevention, give it 2 or 3 mornings together, at the firſt quarter of the Moon, and Full.</p>
+               <p>The <hi>Cephalic Electuary</hi> is a peculiar Medicine compoſed a<g ref="char:EOLhyphen"/>gainſt infirmities of the Head; it Roborates the Braine and Nerves exceedingly, Concocts and Exſiccates abounding moiſture, that produceth d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fluxions of Rheum's, Scrophu<g ref="char:EOLhyphen"/>lous tumours and ſwellings of the Uvula, or Almonds of the Ears, confirms and reſtores the memory, acuates and ſharpens the ſight and hearing, very proper and ben<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ficiall for all per<g ref="char:EOLhyphen"/>ſons that are <hi>Epileptic, Cataleptic, Apoplectic, Paralytic,</hi> ſub<g ref="char:EOLhyphen"/>ject to Convulſions, trembling of the Nerves, that hath a weak brain and infirm head.</p>
+               <p>Take the quantity of a Nutmeg or more, faſting, upon a Knifes point, or in Roſemary poſſet which is better.</p>
+               <p>You may eat an hour after, and follow your buſineſſe.</p>
+               <pb n="30" facs="tcp:46673:17"/>
+               <p>The <hi>Catarrh Pills,</hi> ſtops thin Rhumes that diſtill from the Head into the Breaſt, procures quiet ſleep, incraſſates the the Rhume, and prevents coughing in the night; being in<g ref="char:EOLhyphen"/>tended onely for ſuch as are moleſted with coughing in the night, but in the day uſe Pectoral Medicines hereafter menti<g ref="char:EOLhyphen"/>oned, for the Lungs.</p>
+               <p>Take them when you firſt lye down in bed two or three nights together, or every other night: they purge not.</p>
+               <p>The full Doſe is two pills, no more: for ten years old, one pill.</p>
+               <p>The <hi>Epileptic Amulet,</hi> is a good preſervative againſt the Fall<g ref="char:EOLhyphen"/>ing ſickneſſe, Apoplexy, convlſions, Catalepſy, fits of the Mo<g ref="char:EOLhyphen"/>ther, Incubus, or Night Mare, and Vertigoes. Whoſe virtuall ſcent comforts the brain, diſſipates and expells all Noxious Vapours and Fumes that ariſe up to the head and afflict the braine and Nerves with thoſe Symptomes, prevents, retards, or abates them in their return.</p>
+               <p>To be worn about the neck conſtantly next to the skin, by all perſons ſo diſeaſed, young and old.</p>
+               <p>The <hi>Fuming Powder,</hi> is very proper and fit for all thoſe that have a cold, moiſt, or weake brain, it exſiccates and dryes up Rhumes, and all ſuperfluous moiſture, that cauſeth Diſtillati<g ref="char:EOLhyphen"/>ons upon the Lungs, ſore eyes, tooth-ach and ſuch like, and alſo ſtrengthens the head and Nerves much.</p>
+               <p>Uſe it morning and night, thus: ſtrew a little upon hot Coals in a Chaffing-diſh, and hold your head clothes, or cap over the ſwoake, ſo put them on warm.</p>
+            </div>
+            <div type="section">
+               <head>For the Eyes.</head>
+               <p>THe <hi>Opthalmick Water,</hi> is excellent for ſore Eyes, it re<g ref="char:EOLhyphen"/>ſtraines a Flux of Humours that reſorts thither, cooles any inflamation there, mitigates any ſharp Humour that cau<g ref="char:EOLhyphen"/>ſeth
+<pb n="31" facs="tcp:46673:17"/> itching, heat, or readneſs, clears the ſight and ſtren<g ref="char:EOLhyphen"/>thens it.</p>
+               <p>Uſe it thus: Dip a fine cloth or feather in the water; and waſh your eyes night and morning in bed.</p>
+               <p>In the interim refuſe no good means to take away the Ante<g ref="char:EOLhyphen"/>cedent cauſe, as blood-letting and purging, where it is re<g ref="char:EOLhyphen"/>quiſite.</p>
+            </div>
+            <div type="section">
+               <head>For the Heart.</head>
+               <p>THe <hi>Bezoardic Antidote,</hi> is a moſt Soveraigne Cordiall againſt the Plague; it powerfully expells poyſons, re<g ref="char:EOLhyphen"/>moves oppreſſions at the heart, and any ſurfeit or overcharging of the ſtomack, drives out all Putrid matter and Malignity, whether received by infectious and unwholſome Ayres, or otherwiſe generated in the body: very effectuall in the ſmall Pox, Meſels, ſpotted Feaver to bring forth their Malig<g ref="char:EOLhyphen"/>nity to the skin, and to prevent returning inwards; of excel<g ref="char:EOLhyphen"/>lent uſe in all ſuddain ſickneſſes in young or old, to d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fend the heart and vitals, untill the diſtemper manifeſt it ſelf.</p>
+               <p>Take it on a knifes point, or in poſſet-drink, or any Cordial water, and ſweat as oft as occaſion requires.</p>
+               <p>The full Doſe is the third part of the Medicine: for 14 years a fourth part; for 7 years old, a Dram; for 4 years half a dram, for 2 years 20 grains. <hi>This great Compoſition is made as followeth,</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>Antidotus Bezoard.</head>
+               <p>Rec. Rad. Contrayer, untias tres.</p>
+               <list>
+                  <item>Scorzoner. gentian.</item>
+                  <item>Angel. hiſtort.</item>
+                  <item>Petaſit. Torment.</item>
+                  <item>Pimpinel. imperator.</item>
+                  <item>Dictam. alb. Zedoar.</item>
+                  <item>Vincetox. ana Uncias duas.</item>
+                  <pb n="32" facs="tcp:46673:18"/>
+                  <item>Troch. de Viper. Unciam unam ſemis.</item>
+                  <item>C. Cer. philoſoph. praep.</item>
+                  <item>Terrae Lem. boliarmen.</item>
+                  <item>ana unciam unam.</item>
+                  <item>Fol. Scordii galeg.</item>
+                  <item>Card. bened.</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cifae</item>
+                  <item>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Cret: ana drachmas ſex.</item>
+                  <item>Baccar. Junip. lauri,</item>
+                  <item>Cherm. ſem. Citri.</item>
+                  <item>Acetoſ, thlaſpios napi</item>
+                  <item>Oeymi poenioe.</item>
+                  <item>gran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> parad. ana ſemuncium.</item>
+                  <item>Flor. Calend. Tunicae.</item>
+                  <item>Croci macis</item>
+                  <item>Caryophill. lign.</item>
+                  <item>Aloes. reſinoſt.</item>
+                  <item>Myrrhae Castor.</item>
+                  <item>alexiter. Vegiteb.</item>
+                  <item>noſtr. oſſis de Cord.</item>
+                  <item>Cerui ana drachmus tre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</item>
+                  <item>Lap. Bezoard. oricut.</item>
+                  <item>&amp; occident. Margaritar.</item>
+                  <item>praep. Alexipharmac.</item>
+                  <item>Mineral. nostr. Cap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur.</item>
+                  <item>Elixir. Bezoard noſtr. opii.</item>
+                  <item>Praep. ana drachmus du<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<g ref="char:punc">▪</g>
+                  </item>
+               </list>
+               <p>Syr. Cimon. q. ſ.</p>
+               <p>P. Elictuar u<g ref="char:cmbAbbrStroke">̄</g>. S. artem.</p>
+               <pb n="33" facs="tcp:46673:18"/>
+               <p>The <hi>Cardiall Tincture,</hi> is excellent for fainting fits, it chears the heart, reſtores the Vitall Spirits, and quickens decayed nature in feeble and weak perſons,; comforts and warmes a cold ſtomack, helps digeſtion, expells winde, and melancho<g ref="char:EOLhyphen"/>ly vapours that affl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct the heart; very good in Palpitations of the heart, or oppreſſion at ſtomack through Crudities and Indigeſtion.</p>
+               <p>To be taken at any time night or day, when any the aforeſaid diſtempers require it.</p>
+               <p>The full Doſe is a ſpoonfull and half: for 14 years one ſpoonfull: for 7 years old, half a ſpoonfull, and ſo proportion<g ref="char:EOLhyphen"/>ably to younger.</p>
+            </div>
+            <div type="section">
+               <head>For the Lungs.</head>
+               <p>THe <hi>Pectorall Electuary</hi> ſtayes defluxions of ſharp rheumes that fall upon the Lungs, mittigates their acidity and ſaltneſs which endangers Coroſion, eaſeth your Cough, ſtren<g ref="char:EOLhyphen"/>thens and defends the Lungs, prevents a Conſumption, and is ſingular for theſe purpoſes worth your knowledge, and uſe.</p>
+               <p>To be taken at any time, the quantity of a Nutmeg or more, when your Cough requires it, but chiefly at night and morn<g ref="char:EOLhyphen"/>ing in bed.</p>
+               <p>The <hi>Asthmatic Pills,</hi> is a great preſervative to weake and de<g ref="char:EOLhyphen"/>cayed Lungs, opens Obructions and ſtoppings in the Breaſt, helps difficulty of breathing, old Coughs and ſhortneſſe of breath, concocts tough Flegme and brings it up eaſily, or pre<g ref="char:EOLhyphen"/>pares it to be purged downwards.</p>
+               <p>Take them in the morning faſting, and at 4 of clock af<g ref="char:EOLhyphen"/>ternoon; 2 or 3 pills at a time; they purge not.</p>
+               <p>Theſe Pills are very beneficial for cold, moiſt, and flegma<g ref="char:EOLhyphen"/>tick conſtitutions; but if you have a Hectic Feaver, or have a dry Cough, or it proceeds from a ſharp, hot, and thin rhume;
+<pb n="34" facs="tcp:46673:19"/> then this medicine is not ſo proper as the foregoing, and this that follows.</p>
+               <p>The <hi>Hectic Confection,</hi> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> very well approved for Conſumption coughs, and thoſe that have a hot and dry conſtitution, or a Hectic Feaver; it cooles, moiſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns, and reſtores the Radicall moiſture very much: eaſeth the breaſt that's pained with coug<g ref="char:EOLhyphen"/>ing, and looſens the flegme: it helps a dry Cough and pro<g ref="char:EOLhyphen"/>cures exp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctoration; is very reſtorative for conſumptive and leane perſons.</p>
+               <p>Take the qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntity of a Nutmeg or Cheſtnut as oft as you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leaſe, and occaſion r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quires, but not ſoon after meat.</p>
+            </div>
+            <div type="section">
+               <head>For the Stomack.</head>
+               <p>THe <hi>Digestive Electuary,</hi> helps Concoction, and cloſeth the mouth of the ſtomack; repr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th Fumes and Vapours that riſe up to the head after meat; ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns the Appetite, and is very pleaſant and gratefull to the ſtomack.</p>
+               <p>Take the quantity of a Nutmeg half an hour after Dinner and Supper.</p>
+               <p>The <hi>Stomack Pills</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffectually cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſeth the firſt Region of the body; carries away all vitious Humors and indigeſted matter, that clogs the ſtomack, hinders digeſtion, dulls the Appetite, and which corrup<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s good Nutriment received: prevents and cures Fluxes, Gripings and paines ih the Stomack and Bowels, from ſharp biting Choler, or flatulent Crudity: Attracts and draws away all viſcous, ſlime, and groſs flegme, that generates obſtructions from whence many Diſeaſes ariſe.</p>
+               <p>Take them three or four times, Spring and Autume, or at other temperate ſeaſons, if occaſion require, obſerving the di<g ref="char:EOLhyphen"/>rections and cautions for purging in the 16, 17, 18 pages.</p>
+               <p>The full doſe is ſix pills; for 14. years, 4 pills, for ten years old, 3 pills.</p>
+               <pb n="35" facs="tcp:46673:19"/>
+               <p>The <hi>Great Elixir,</hi> ſtrengthens a weak ſtomack very much, procures good digeſtion and appetite; takes away crudities, nauſeouſneſs and ſowre belchings from off a raw ſtomack, and fortifies it exceedingly, but if the ſtomack be very foule, ſtuf<g ref="char:EOLhyphen"/>fed and clogged with groſs flegmatic humors, or hot Choleric humors fluctuating and broiling upon the ſtomack; then firſt clenſe downward with the ſtomack pills; or upwards by vomit with the Emetic Tinctur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: afterwards ſtrengthen with this Elix<g ref="char:EOLhyphen"/>it, and you will finde a great alteretion both for Appetite and Concoction.</p>
+               <p>To be taken in a little Sack, or other Wine moſt agreeable to your ſtomack (but not alone) in the morning, faſting an hour after; and at 4 of clock afternoon.</p>
+               <p>The full Doſe is 30 drops: but for young people and chil<g ref="char:EOLhyphen"/>dren ſo many drops as they are years old.</p>
+               <p>Shake the Bottle when you uſe it.</p>
+               <p>The <hi>Emetic Tincture</hi> dichargeth the Stomack by Vomit, of all Superfluous, Crude and Noxious Humours that flu<g ref="char:EOLhyphen"/>ctuate upon the Stomack, or lodge in the parts adjacent; it takes away bitter and Acid Eructations and Belchings, Vel<g ref="char:EOLhyphen"/>lications and Gripes in the Stomack from Bilious Humors, very proper and ſuccesfull in the cure of Agnes Obſtructions of the Liver and Gall, which cauſeth the Yellow Jaundice: takes away immoderate thirſt and heat of the Stomack, by Evacuating Choller and Humours duſt: Cleanſeth from all impurities, and makes the Stomack fitt for Reception of wholeſome Food<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; make it a little Warme and take it according to the Directions for Vomiting, ſet down in the 18, 19. pages.</p>
+               <p>The full Doſe is the whole Medicine, for Men and Women of ſtrength: but for tender bodies, and for the age 15, take but three parts of it.</p>
+            </div>
+            <div type="section">
+               <pb n="36" facs="tcp:46673:20"/>
+               <head>
+                  <hi>Liver</hi> and <hi>Spleen.</hi>
+               </head>
+               <p>THe <hi>Hydropic Powder,</hi> is a peculiar Medicine that attracts all ſerous and watry humors from any par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the body and evacuates them; opens obſtructions of the Liver and Meſa<g ref="char:EOLhyphen"/>raick veines, and is the moſt effectual purge for Dropſies that I know.</p>
+               <p>Take it in a little Poſſet drink or white Wine warmed faſt<g ref="char:EOLhyphen"/>ing, 2 or 3 mornings in a week and keep houſe, eat not untill noon; obſerve the directions for purging in the 16, 17, 18 pages.</p>
+               <p>The full Doſe is one paper; for the age 14. three parts of a p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>per, or but half if a weak or tender perſon; and ſo proporti<g ref="char:EOLhyphen"/>onably to younger.</p>
+               <p>The dayes you purge not, drink a good draught of Worm<g ref="char:EOLhyphen"/>wood wine, and eat ſome white Bisket every morning, and at 4 of clock afternoon.</p>
+               <p>The <hi>Splenetic Pills,</hi> opens obſtructions of the Liver and Spleen, eaſeth their pains, and carries away the obſtructing humours, abates their tumors, and diſtention of the Hypo<g ref="char:EOLhyphen"/>chonders and ſoftens them: Very uſefull and proper in the cure of the Jaundice both Black and Yellow, Hypochondriac Melancholy, the Scurvy and ſuch like ſeated in thoſe parts, by purging away the feculent matter that ſubſide and obſtruct the veſſels.</p>
+               <p>Take them twice or thrice, obſerving the directions for purging in the 16, 17. 18 pages of this Book.</p>
+               <p>The full doſe is ſix pills; for 14 years, 4 pills: for ten years old, 3 pills.</p>
+               <p>The <hi>Spleen Plaster,</hi> is excellent for Paines and tumors of the Liver and Spleen, to diſperſe the Winde, and diſſipate colle<g ref="char:EOLhyphen"/>cted humors, and to ſoft<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n any ſcirrhus hardneſſe in thoſe parts.</p>
+               <pb n="37" facs="tcp:46673:20"/>
+               <p>Apply it to the pained place, the hollous fide inward, to<g ref="char:EOLhyphen"/>wards the belly, and let it ſtick on a fortnight or three weeks. But with all remember the foregoing Pills, to Evacuate and empty the veſſels diſtended and obſtructed with winde and hu<g ref="char:EOLhyphen"/>mors, and to cleere the paſſages and Ductures, as the Plaſter removes, agitates and drives back the offending cauſe.</p>
+               <p>The <hi>Scorbute Tincture,</hi> is a ſpecific and moſt certain Remedy againſt the Scurvy, ſufficiently experimented and approved.</p>
+               <p>To be taken (moſt exactly and properly) in Rheniſh Wine and the juce of Orange, every morning, faſting, Spring and Fall, for two or three weeks; alſo at other time<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the year if oc<g ref="char:EOLhyphen"/>caſion require.</p>
+               <p>The full Doſe is half a ſpoonfull: for fourteen years a third part.</p>
+               <p>If the body be ſoul forget not to purge.</p>
+            </div>
+            <div type="section">
+               <head>For <hi>the</hi> Guts.</head>
+               <p>THe <hi>Diſcuſſive powder,</hi> pen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>trates, opens, diſcuſſeth and expels winde and all flatulent Vapours that diſtend and puffe up the Belly and Hypochonder<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; helps the Cholick, and iliac paſſion, and all diſtempers, pains, and gripes, from winde or cold In the Guts and Stomack.</p>
+               <p>Take it in warm Poſſet drink, at any time when occaſion re<g ref="char:EOLhyphen"/>quires: If you boile a little Liquorice in the Poſſet drink, you add to the goodneſs of the Medicine,</p>
+               <p>The full Doſe is one Paper: for 14 years old, halfe a Pap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</p>
+               <p>Alſo that a more free paſſage and vent for the winde may be given, take the following Clyſter, if your body be coſtive, or the occaſion urgent and extreame.</p>
+               <p>The <hi>Retentive Electuary,</hi> ſtop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all Fuxes of the belly, by at<g ref="char:EOLhyphen"/>tracting and collecting the peccant humor onely, that ſtimulates
+<pb n="38" facs="tcp:46673:21"/> to expulſion, and by and Evacuates and ſends it forth, whe<g ref="char:EOLhyphen"/>ther it be ſharp, bilious, or acide ſerous humours; a ſaline ir<g ref="char:EOLhyphen"/>ritating flegme, a ſtinking corrupt Colliquation, or Acride and Aduſt Melancholly; having alſo an aſtringent Vertue to binde afterwards, and to roborate the Retentive faculty, the offending cauſe being removed; this is the onely way to expell the cauſe, ſtop the Flux, and prevent danger that may enſue.</p>
+               <p>To be taken on a knifes point faſting three or four mornings together, more or leſs as the greatneſs of the occaſion requires, untill the Cauſe be Eradicated, the Flux ſtayed, and all Symp<g ref="char:EOLhyphen"/>tomes allayed: Women with childe may ſafely take it, or any perſon whatſoever.</p>
+               <p>The full Doſe is half the Medicine: for 14 years, a third part: for 7 years old a fourth part.</p>
+               <p>Keep houſe, for colde provokes the Flux; neither eat or drink of two hours after the Medicine, and then Almond Milk or Wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y is the beſt you can take; which you may drink freely night or day, if you be griped in the belly.</p>
+               <p>The <hi>Tincture for Wormes,</hi> is ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ellent for young Children that cannot take the following Pills, having the ſame effects, ſave onely it purgeth not: therefore give it in a little Syrupe of Rubarb, or Roſes, if that cannot be had, 2 or 3 mornings new Moon and full.</p>
+               <p>The Doſe is 12 drops for ſix years old; 8 drops to 4 years; 4 drops to 2 years old.</p>
+               <p>The <hi>Pills for Wormes,</hi> both kills, and prevents their breeding, by carrying away the putrid matter whereof they are generated, clenſing the ſtomack and bowels from filthy corrupt humors; reſtores the ſtomack and complexion thereby decayed, amends the ill ſavour of the breath; and corrects many other Symp<g ref="char:EOLhyphen"/>tomes which wormes produce.</p>
+               <p>Take them two mornings together, new Moon and full; ob<g ref="char:EOLhyphen"/>ſerving the general directions for purging in the 16, 17, 18, pa<g ref="char:EOLhyphen"/>ges of this book.</p>
+               <pb n="39" facs="tcp:46673:21"/>
+               <p>The <hi>Clyster Electuary,</hi> is very uſefull and of ſpeedy help, in all pains and gripings of the Belly, Cholic, Stone, Spleen, Coſtive<g ref="char:EOLhyphen"/>neſs, Feave<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, pains in the head and upper parts, by drawing the off<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nding Cauſe downwards and evacuating it: very fit for thoſe that can take no puring Phyſick but this way: it attracts Choler, Flegme and Melancholy. Uſe it thus.</p>
+               <p>Take a pint and half of Ale poſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, half a handfull of Fen<g ref="char:EOLhyphen"/>nell ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eds bruiſed groſly, or Anniſe, boyle theſe to a plat, ſtrain it: in this liquor then diſſolve the Electuary, put it in your Clyſter bag fitted, and give it warm, then lye upon your back and retain it half an hour or 3 quarters if you can: you may repeat it if occaſion r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quire: you will find great eaſe, and ſud<g ref="char:EOLhyphen"/>dain he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p.</p>
+               <p>For children give but half, or a third part, more or leſs ac<g ref="char:EOLhyphen"/>cording to their age.</p>
+            </div>
+            <div type="section">
+               <head>For the Reines and Bladder:</head>
+               <p>THe <hi>Nephritic Pills,</hi> clenſeth the Reins and Bladder of ſand and gravel that generates the ſtone, opens the Urinary paſ<g ref="char:EOLhyphen"/>ſages and frees them from ſlimy, or any groſs matter that ob<g ref="char:EOLhyphen"/>ſtructs the Uriters, they provoke Urine, cool the Reins, pre<g ref="char:EOLhyphen"/>vents the ſtone, helps the Strangury and ſuppreſſion of Urine.</p>
+               <p>Take them 2 or 3 mornings in a week faſting, (at any time of the year, when occaſion requires) an hour after drink a good draught of White Wine and Ale, then follow your buſineſs; they purge not by ſtool, but by Urine onely.</p>
+               <p>The Doſe is 5 pills: for 14 years 3 pills.</p>
+               <p>The <hi>Roborating Pills,</hi> are very good to ſtrengthen a weak back in man or woman, to ſtay the whites, helps the reten<g ref="char:EOLhyphen"/>tive facultie of the Bowels and naturall parts, ſtrengthens the Old age and weak perſons.</p>
+               <pb n="40" facs="tcp:46673:22"/>
+               <p>Take them two or three mornings in a week, in bed early, ſleep after them, when you riſe drink a glaſs of Mulkadine, and follow your buſineſs.</p>
+               <p>The Doſe is 5 pills: for 14 years, 3 pills.</p>
+               <p>The <hi>Strengthning Plaster</hi> is of excellent uſe in all ſtrains and weakneſs of the back, removes paine and Aches there, gives ſtrength to the Spine bone, and knits a looſe back; it likewiſe helps all tumors, pain, and ſtiffneſſe in any part, by falls, blows, hard labour or colde; it helps all Weakneſſe, Spraines, and Wrenches of any joynt, ſtrengthens the Ligaments, comforts the Sinews, and draws out ſuperfluous moiſture that relaxeth any part, or cauſeth paine, and defends it from a flux of humors.</p>
+               <p>Apply it to the grieved part, and let it ſtick on three or four weeks, it will reſtore and help you of your infirmity.</p>
+            </div>
+            <div type="section">
+               <head>For the Genitall Parts.</head>
+               <p>THe <hi>Reſtringent Powder,</hi> ſtaies a Gonorrhaea or runnig of the Reines, ſo called; mitigates and aſſwageth paine that pro<g ref="char:EOLhyphen"/>ceeds from any ſharp or hot humor in the Privities of man or woman; heales any Exulceration there, takes away any itch<g ref="char:EOLhyphen"/>ing or troubleſome heat, cooles much, and reſtraines effectually the debility and weakneſs of the ſpermatick veſſels.</p>
+               <p>Uſe it thus: take a pint of Plantane water, half a pint of White wine, one paper of this powder, mix them well, by ſha<g ref="char:EOLhyphen"/>king it together in a bottle; then with a Syringe inject it into the privy part morning and night, you will finde great help and eaſe.</p>
+               <p>But if the Gonorrhaea be virulent, and proceed from the Pox; then it is requiſite alſo that you take the following Pills to purge and clenſe your body from that Malignity and virulency wherewith the humors are tainted and vitiated. For if you ſtop the Gonorrhaea and do not alſo take away the impurity of the Diſeaſe, you retain it in the body to your prejudice.</p>
+               <pb n="41" facs="tcp:46673:22"/>
+               <p>The <hi>Antivenereall Pills,</hi> are a ſpecific Remedy againſt the French Pox to clenſe and purifie the body from any infection and pu<g ref="char:EOLhyphen"/>trid matter ariſing from thence; they purge downward, all foulneſs of the body, and by a peculiar propriety attract the venome of that Diſeaſe.</p>
+               <p>The full Doſe is 4 pills: for tender and weak perſons 3 pills is ſufficient.</p>
+               <p>Take them 5 or ſix times every third or fourth day, accord<g ref="char:EOLhyphen"/>ing as you finde the ability of your body, and the operation, obſerving the directions for purging in the 16, 17, 18, pages of this Book.</p>
+               <p>After the firſt Doſe of Pills, if you be young and ſanguine, or of a hot conſtitution, or ſo acquired by this Diſeaſe, then let a a Veine be opened in the arme, and take blood at the diſcretion of your Chirurgeon.</p>
+               <p>After purging you may ſweat 3 or 4 times with the <hi>Sudorfiic Pills</hi> to purifie the blood, ſee page 43.</p>
+               <p>The <hi>Expulſive powder,</hi> is an approved help for the ſafe delivery of Women in labour when all other meanes have failed, gi<g ref="char:EOLhyphen"/>ving ſtrength both to the Woman and Childe, and ſpeedily procureth the birth by Gods help.</p>
+               <p>Give it in a ſpoonfull of Cinamon water, at the due time for delivery, and no time elſe.</p>
+               <p>The Doſe is one paper.</p>
+               <p>The <hi>Hysterical Powder,</hi> is a ſpecific remedy againſt fits of the Mother, very ſoon abates their violence, diſperſeth the Va<g ref="char:EOLhyphen"/>pours, ſhortens the fitt, and reduceth the Patient to her ſenſe and reaſon.</p>
+               <p>Give it once or twice that day you have them, in half a pint of Spring water colde.</p>
+               <p>For prevention take it once in a fortnight or 3 weeks, in the morning faſting.</p>
+               <p>The Doſe is one paper.</p>
+               <p>The <hi>Femenine Pills,</hi> clenſeth and opens all obſtructions of the Matrix, cures the green Sickneſs, effectually, and reſtores the complexion, prevents fits of the Mother, in thoſe that are ſub<g ref="char:EOLhyphen"/>ject to it, and diſperſeth the vapours; brings the termes into
+<pb n="42" facs="tcp:46673:23"/> their right order according to the courſe of Nature, and pur<g ref="char:EOLhyphen"/>geth women excellently.</p>
+               <p>Take them 3 or 4 times obſerving directions for purging in the 16 17, 18 p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ges of this book</p>
+               <p>The full Doſe is 6 pills: for 15 years: 5 pills, or but 4, if ſhe be a tender body and eaſy to operate.</p>
+               <p>The <hi>Womens Preſervative;</hi> is an excellent Powder, very ſuc<g ref="char:EOLhyphen"/>ceſſeful and of great uſe to prevent miſcarrying in Women with chi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de: alſo very Cordiall and ſtrengthning for weak women.</p>
+               <p>Take it once or twice in a week faſting, in a glaſs of Mu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ka<g ref="char:EOLhyphen"/>dell; you may forbear taking the laſt moneth of your time.</p>
+               <p>The Doſe is one pap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</p>
+               <p>Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beware of Dancing, ſtretching, leaping, carrying of any weighty thing, riding, ſuddain motion, fear, or grief ſtreight lacing, ſurfeiting and ill dyet which break out into Fluxes, and are very d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngerous for woman in this condition.</p>
+            </div>
+            <div type="section">
+               <head>For the Ioynts.</head>
+               <p>THe <hi>Arthritic P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lls</hi> are a peculiar approved Remedy for the Gout, in the Feet, Knees, Hip, or Hands; whether fixed in one joynt, or erratick from place to place: they Attract the Pec<g ref="char:EOLhyphen"/>cant humor from the Joynts, and Evacuates it by ſeige; they alſo purge ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Phlegmatic, Serous, and Choleric humors, and clen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the body well.</p>
+               <p>The Doſe is 4 pills for man or woman: tender and weak bo<g ref="char:EOLhyphen"/>dies may take 3: obſerve the generall directions for purging in the 16, 17 18 pages.</p>
+               <p>For prevention, take them 2 or 3 dayes in the middle of <hi>March,</hi> and at the beginning of <hi>September;</hi> if blood abounds open a vein to abate it: but if the pain hath ſeaſed you already, and that violently, open a vein to prevent a Feaver, to retract the current of humors, and to abate the fierceneſſe of it: if pain be in the right Leg, open a vein in the right arm; if in the left Leg, open a vein in the left arm; if pain be in the right arm, open a vein in the left arm, and ſo the contrary: take blood accord<g ref="char:EOLhyphen"/>ing to age, ſtrengh, plenitude, &amp; greatneſs of y<hi rend="sup">e</hi> cauſe, as the skil<g ref="char:EOLhyphen"/>ful
+<pb n="43" facs="tcp:46673:23"/> Chirurgions ſees fit: In the inte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im make uſe of the C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>phire powder to aſſwage pain, as it is directed in the 45 page. After bleeding, the day following take the pills, and the next night after.</p>
+            </div>
+            <div type="section">
+               <head>
+                  <hi>Miſcellaneous</hi> and <hi>General Medicines.</hi>
+               </head>
+               <p>
+                  <hi>THe Catholick Pil's</hi> purge Choler, Flegme and Melancho<g ref="char:EOLhyphen"/>ly from all parts of the body, car<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s away all ſuperflu<g ref="char:EOLhyphen"/>ous and putrid humors that ſeetle or fix in any part to breed di<g ref="char:EOLhyphen"/>ſeaſes: they prevent Feavers, Agues, Fluxes, breakings out up<g ref="char:EOLhyphen"/>on the skin, Itch, Imp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umes; takes away all filthy matter that engender wormes, and keeps the body cl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an and pure.</p>
+               <p>Take them 2 or 3 dayes Spring and Autume, or at other tem<g ref="char:EOLhyphen"/>perate ſeaſons if occaſion require; ob erving the dir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions for purging in the 16, 17, 18 pages of this book.</p>
+               <p>The full Doſe is 4 pills: for 14 years old, or tender bodies 3 pills: for 7 years 1 pill.</p>
+               <p>The <hi>Aperitive Powder</hi> very effectually opens all obſtructions of the Liver, Spleen, Guts, Panc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eas, Meſentery and Matr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x, and is very uſefull and neceſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he cures of Hypo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hondriae Melancholy, Scurvy, Dropſies, Cholic, tumors or p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in the Liver and Spleen, the Gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en-ſickneſs eſpecially, and all Diſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſes ariſing from obſtructions.</p>
+               <p>Take it faſting in Rheniſh, wormwood, or plain White Wine, 2 or 3 mornings together, before purging; and alſo th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mitting dayes between purging, and ſtir about or uſe exerciſe after: it prepares and opens the body excellently, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reby your purging Phyſick will operate more effectually for your purpoſe and expedite your buſineſs.</p>
+               <p>The Doſe is one paper: for 14 years 3 parts of a Paper.</p>
+               <p>The <hi>Sudorific Pills,</hi> procures ſweat excellently and purifies the blood, dries up rhumes and watry humors abounding; diverts diſtillations from the Lungs and other parts; are a great pre<g ref="char:EOLhyphen"/>ſervative againſt the running gout, or fixed; expels all putrid hu<g ref="char:EOLhyphen"/>mors by tranſpiration; drives out all colds newly taken, or old; helps old aches; prevents &amp; cures agues, feavers, ſmal pox, meaſels
+<pb facs="tcp:46673:24"/> and all Diſeaſes generated of putrefaction, and is the moſt plea<g ref="char:EOLhyphen"/>ſant and eaſie Medicine you can deſire for ſweating.</p>
+               <p>You may take them two or three mornings faſting in bed covered warm; a quarter of an hour after, drink a good draught of Roſemary poſſet; or Lemmon poſſet if you be Feaveriſh, and ſweat 2 hours; then take off clothes by degrees and cool care<g ref="char:EOLhyphen"/>fully, and beware of cold afterwards, the Pores of the body being open.</p>
+               <p>The full Doſe is 4 pills: for 14 year, 3 pills: for 9 years 2 pills.</p>
+               <p>The <hi>Haematic Powder,</hi> reſtraines immoderate flowing of the termes, and ſtayes all iſſues of blood, whether by Stool, Urine, Vomiting, or Spitting.</p>
+               <p>Take it in a draught of Veriuce poſſet cold, morning and evening, and if the party be young or Sanguine, take away a little blood at the Arme, by a diſcreet Chirurgion to divert the courſe; it is ſafe and proper.</p>
+               <p>The full Doſe is one Paper: for 15 years old, 3 parts of it.</p>
+               <p>The <hi>Purgative Electuary</hi> is a generall purge that clean ſeth all parts, and takes away both Choler, Flegme, and Melancholy; very uſeful for thoſe which cannot take Pills, or have a coſtive and dry body.</p>
+               <p>Take it in the morning early, on a knifes point; or mix it with poſſet drink and make a potion if you pleaſe; obſer<g ref="char:EOLhyphen"/>ving directions for purging in the 16, 17, 18, pages of this Book.</p>
+               <p>The full Doſe is the whole Medicine: for 14 years old, 3 parts of it: for ten years, half: for 7 years a third part.</p>
+               <p>The <hi>Iſsue Plaſters,</hi> attracts and draws ſuperfluous and corrupt humors from all parts of the body to the place: cauſeth your iſſue to run, and brings away filthy matter, which produced and inclined you to many Diſeaſes and diſtempers; they keep your iſſue cool and prevent inflamation: very commodious in Journeyes or Voyages, one of them will laſt a moneth in wear<g ref="char:EOLhyphen"/>ing; wipe it and turn the otherſide to the place every dreſſing, and lay a paper upon it.</p>
+               <pb n="45" facs="tcp:46673:24"/>
+               <p>The <hi>Febrifick Antidote,</hi> reſiſt all Agues or intermitting Fea<g ref="char:EOLhyphen"/>vers, changeth the conſtitution and diſtemper of the blood, checks the Fermentation and Ebullition of it, mitigates and abates the Rigor of the Fits, alters the courſe of the Diſeaſe, and by degrees quite eradicates it.</p>
+               <p>Mix it with a little juce of Lemmon in a ſpoon, and take it every fit day, 2 hours before the fit comes, and go to bed pre<g ref="char:EOLhyphen"/>ſently; lye to ſweat, and ſleep if it doth ſo diſpoſe you: Lem<g ref="char:EOLhyphen"/>mon poſſet, you may drink in your hot fit freely.</p>
+               <p>The full doſe is a third part of the Medicine: for 14 years a fourth part: for 8 years old a dram.</p>
+               <p>
+                  <hi>Moreover, becauſe theſe Fitts are accommanied with impurity and fouleneſſe of the Body, it is requiſite there be ſome Evacuation made to cleanſe the Stomack and parts adjacent; elſe from thence there will be a continuall ſupply of Crude and Corrupt Nutriment ſent into the Veines, whereby the Maſſe of blood ſhall never be De<g ref="char:EOLhyphen"/>purated, and ſo remaine under the ſame Distemper a long time, or Degenerate into ſome other as bad or worſe, when theſe Fitts of</hi> Fe<g ref="char:EOLhyphen"/>brific Fermentation <hi>ceaſe: therefore if you have a fulneſſe at the stomack, nauſeating or inclination to Vomit in your fits, then for<g ref="char:EOLhyphen"/>beare this Antidote once, and</hi> 2 <hi>houres before you expect the next Fitt, take the</hi> Emetic Infuſion <hi>to vomit, obſerving the ſame Order as is directed in the</hi> 18, 19 <hi>pages of this book for Vomiting.</hi>
+               </p>
+               <p>Thoſe dayes you have no Fitt, to take a Clyſter is very pro<g ref="char:EOLhyphen"/>per and beneficall, to cleanſe and carry away the Morbific Cauſe: the <hi>Clyster Electuary</hi> is for your purpoſe, ſee page 39.</p>
+               <p>If you refuſe Clyſters, take the <hi>Catholic Pil's,</hi> page 43.</p>
+               <p>The <hi>Camphire Powder,</hi> cures all Tettars, Ringwormes, Scabs, Itch, Frettings and Gallings of the Skinne, Choleric Puſhes and Pimples in any part of the Body: it aſſwageth all Pains of the Gout in the Hands, Feet or Knees, is a good preſervative to defend the Joynts from the Reception of any ſuch Humor, by knitting, binding, and ſtrenthening them: it Repells a Flux of Humours reſorting to an infirme, depending or relax part: it cooles and abates all outward inflamations, repreſ<g ref="char:EOLhyphen"/>ſeth
+<pb n="46" facs="tcp:46673:25"/> tumors and mitigates their pain; it hardens tender and ſweating ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t and makes them bold upon the ſtones; kills chil-bla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, and eaſeth pains of the feet mol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d with ſharp pricking humors, is very good for old Ulcers and ſores, by cooling, dry<g ref="char:EOLhyphen"/>ing and healing.</p>
+               <p>To be uſed thus: Put the powder into a pint and half of Smiths water, and boyle it to a pint, and with this Liquor (milk warm) bath the places aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cted twice a day, morning and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight</p>
+               <p>But if you intend it for Pimples in the face, then boyle it in White wine.</p>
+               <p>This Powder will be damp and moiſt ſometimes, it is the nature of it, and not the worſe.</p>
+               <p>The <hi>Coſmetick Water</hi> is of an abſterſive faculty to clenſe, purifie, and thin the skin, in a ſhort time it alters a dull muddy complexion and makes it bright and clear: it takes away Sun-burning, Morphew ſpots and Freckles, and puts a lively colour into the face, without any future prejudice to the skin, as <hi>Mer<g ref="char:EOLhyphen"/>curian</hi> waters and ſuch like are wont.</p>
+               <p>Uſe it thus; ſhake the Bottle well, then wet a fine cloth in it and wipe your face over (not your eyes) every morning: and at night when you go to bed, wipe your face with a cloth dipt in milk, thus doing, you ſhall have the deſired effect.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Prin<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and are to be ſold by <hi>Samuel Thomſon</hi> Sta<g ref="char:EOLhyphen"/>tioner, at the <hi>Biſhops head</hi> in St. <hi>Pauls Church-yard.</hi>
+            </p>
+            <p>
+               <hi>Robert Horn</hi> Stationer, at the <hi>Turks Head</hi> in <hi>Cornhill.</hi>
+            </p>
+            <p>
+               <hi>Thomas Baſſet</hi> Stationer, under St. <hi>Dunstons Church</hi> in <hi>Fleet-ſtreet.</hi>
+            </p>
+            <p>
+               <hi>George Joyce,</hi> at the ſign of the <hi>Seale</hi> in <hi>Westminster Hall.</hi>
+            </p>
+            <p>Where alſo you may have the Medicines.</p>
+            <pb facs="tcp:46673:25"/>
+         </div>
+      </back>
+   </text>
+</TEI>
